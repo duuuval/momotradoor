@@ -2,8 +2,8 @@ name: Overnight Market Scanner
 
 on:
   schedule:
-    # Runs at 9:00 PM UTC (5:00 PM EST) Monday through Friday
-    - cron: '0 21 * * 1-5'
+    # Runs at 6:30 PM EST (22:30 UTC) Monday-Friday
+    - cron: '30 22 * * 1-5'
   workflow_dispatch: # Allows you to click "Run" manually in GitHub UI
 
 jobs:
