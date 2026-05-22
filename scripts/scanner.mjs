@@ -104,13 +104,17 @@ async function runScanner() {
       const ema20 = calculateEMA(validCloses, 20);
       const ema50 = calculateEMA(validCloses, 50);
 
-      const isAccelerating = ema20 > ema50;
+            const isAccelerating = ema20 > ema50;
       const isAboveSupport = currentPrice > ema20;
       const isVolumeSpiking = recentVolume > (avgVolume * 1.5);
+      
+      // --- THE GREEN DAY FILTER ---
+      const prevClose = validCloses[validCloses.length - 2];
+      const isGreenDay = currentPrice > prevClose;
 
-      if (isAccelerating && isAboveSupport && isVolumeSpiking) {
-        const prevClose = validCloses[validCloses.length - 2];
+      if (isAccelerating && isAboveSupport && isVolumeSpiking && isGreenDay) {
         const dayChange = (((currentPrice - prevClose) / prevClose) * 100).toFixed(2);
+        
         const stopLossPrice = (currentPrice * 0.93);
         const dollarRisk = (currentPrice - stopLossPrice).toFixed(2);
 
