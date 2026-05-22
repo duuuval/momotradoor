@@ -18,6 +18,31 @@ function calculateEMA(prices, period) {
 async function runScanner() {
   console.log("🚀 Starting Overnight Momentum Scan...");
 
+  let marketVix = 0;
+  let isHostile = false;
+
+  console.log("🌍 Checking Market Environment (VIX)...");
+  try {
+    const vixRes = await fetch('https://query1.finance.yahoo.com/v8/finance/chart/^VIX?interval=1d&range=5d', {
+        headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' }
+    });
+    const vixData = await vixRes.json();
+    marketVix = vixData.chart.result[0].meta.regularMarketPrice;
+
+    console.log(`📊 Current VIX: ${marketVix}`);
+
+    if (marketVix > 22) {
+        isHostile = true;
+        console.log("🚨 VIX is above 22. Market environment is too hostile for breakouts.");
+        console.log("⚠️ OVERRIDE ACTIVE: Scanning anyway for observation.");
+        // The return command is removed so the script keeps running!
+    } else {
+        console.log("✅ Market environment is stable. Proceeding with scan.");
+    }
+  } catch (e) {
+    console.log("⚠️ Could not fetch VIX, proceeding with caution...");
+  }
+
   // 1. Fetch Universe from Wikipedia
   const urls = [
     'https://en.wikipedia.org/wiki/List_of_S%26P_400_companies',
@@ -40,12 +65,11 @@ async function runScanner() {
 
   const signals = [];
 
-  // 2. Loop through and pull raw JSON from Yahoo's public chart API
+  // 2. Loop through and pull raw JSON from Yahoo
   for (let i = 0; i < universe.length; i++) {
     const ticker = universe[i];
     
     try {
-      // Pull 6 months of historical daily candles
       const url = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1d&range=6mo`;
       const res = await fetch(url, {
           headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' }
@@ -64,11 +88,9 @@ async function runScanner() {
       const closes = quotes.close || [];
       const volumes = quotes.volume || [];
       
-      // Clean data (Yahoo sometimes returns null for halted days)
       const validCloses = closes.filter(c => c !== null);
       const validVolumes = volumes.filter(v => v !== null);
 
-      // Filter: Must have enough history and be over $10
       if (validCloses.length < 50 || currentPrice < 10) {
           await sleep(200);
           continue;
@@ -77,13 +99,12 @@ async function runScanner() {
       const recentVolume = validVolumes[validVolumes.length - 1];
       const avgVolume = validVolumes.slice(-11, -1).reduce((a, b) => a + b, 0) / 10;
       
-      // Filter: Must trade at least 500k shares a day
-      if (avgVolume < 500000) {
+      // Filter: Must trade at least 500k shares a day AND at least 1M today
+      if (avgVolume < 500000 || recentVolume < 1000000) {
           await sleep(200);
           continue;
       }
 
-      // The Momentum Math
       const ema20 = calculateEMA(validCloses, 20);
       const ema50 = calculateEMA(validCloses, 50);
 
@@ -97,28 +118,32 @@ async function runScanner() {
           price: currentPrice.toFixed(2),
           ema20: ema20.toFixed(2),
           stopLoss: (currentPrice * 0.93).toFixed(2),
-          volumeSpike: (recentVolume / avgVolume).toFixed(1) + 'x',
-          dateFound: new Date().toISOString().split('T')[0]
+          volumeSpike: (recentVolume / avgVolume).toFixed(1) + 'x'
         });
         console.log(`🔥 SIGNAL FOUND: ${ticker}`);
       }
       
     } catch (e) {
-      // Silently skip broken tickers so the loop doesn't die
+      // Silently skip broken tickers
     }
 
-    // Log progress every 100 stocks so GitHub Actions doesn't timeout the visual log
     if (i > 0 && i % 100 === 0) {
         console.log(`⏳ Processed ${i}/${universe.length} stocks...`);
     }
 
-    // Pause 200ms between calls to stay under Yahoo's radar
     await sleep(200); 
   }
 
-  // 3. Save the payload
+  // 3. Save the payload WITH VIX METADATA
+  const payload = {
+    vix: marketVix ? marketVix.toFixed(2) : "Unknown",
+    isHostile: isHostile,
+    date: new Date().toISOString().split('T')[0],
+    signals: signals
+  };
+
   const outputPath = path.join(process.cwd(), 'public', 'signals.json');
-  fs.writeFileSync(outputPath, JSON.stringify(signals, null, 2));
+  fs.writeFileSync(outputPath, JSON.stringify(payload, null, 2));
   console.log(`✅ Scan Complete. Saved ${signals.length} signals.`);
 }
 
