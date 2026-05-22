@@ -1,7 +1,10 @@
 import fs from 'fs';
 import path from 'path';
 import * as cheerio from 'cheerio';
-import yahooFinance from 'yahoo-finance2';
+import yahooFinanceRaw from 'yahoo-finance2';
+
+// Fix Node ESM interop issue
+const yahooFinance = yahooFinanceRaw.default || yahooFinanceRaw;
 
 // The Math: Exponential Moving Average
 function calculateEMA(prices, period) {
