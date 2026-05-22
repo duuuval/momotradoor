@@ -1,10 +1,11 @@
 import fs from 'fs';
 import path from 'path';
 import * as cheerio from 'cheerio';
-import yahooFinanceRaw from 'yahoo-finance2';
+import { createRequire } from 'module';
 
-// Fix Node ESM interop issue
-const yahooFinance = yahooFinanceRaw.default || yahooFinanceRaw;
+// Force the bulletproof CommonJS import
+const require = createRequire(import.meta.url);
+const yahooFinance = require('yahoo-finance2').default;
 
 // The Math: Exponential Moving Average
 function calculateEMA(prices, period) {
