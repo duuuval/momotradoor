@@ -109,7 +109,6 @@ async function runScanner() {
       const isVolumeSpiking = recentVolume > (avgVolume * 1.5);
 
       if (isAccelerating && isAboveSupport && isVolumeSpiking) {
-        // --- NEW DATA POINTS ---
         const prevClose = validCloses[validCloses.length - 2];
         const dayChange = (((currentPrice - prevClose) / prevClose) * 100).toFixed(2);
         const stopLossPrice = (currentPrice * 0.93);
@@ -136,27 +135,19 @@ async function runScanner() {
     await sleep(200); 
   }
 
-  // --- EXACT EST TIMESTAMP ---
-  const estTime = new Date().toLocaleString("en-US", {
-      timeZone: "America/New_York",
-      year: 'numeric', month: 'short', day: 'numeric',
-      hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
-  });
-  
-  // Date string just for matching logic on the frontend (e.g., "May 22, 2026")
-  const justDateEst = new Date().toLocaleDateString("en-US", { timeZone: "America/New_York", year: 'numeric', month: 'long', day: 'numeric' });
+  // Generate ISO Timestamp for accurate math on the frontend
+  const exactTimestamp = new Date().toISOString();
 
   const payload = {
     vix: marketVix ? marketVix.toFixed(2) : "Unknown",
     isHostile: isHostile,
-    timestamp: estTime,
-    dateOnly: justDateEst,
+    timestamp: exactTimestamp,
     signals: signals
   };
 
   const outputPath = path.join(process.cwd(), 'public', 'signals.json');
   fs.writeFileSync(outputPath, JSON.stringify(payload, null, 2));
-  console.log(`✅ Scan Complete. Saved ${signals.length} signals at ${estTime}.`);
+  console.log(`✅ Scan Complete. Saved ${signals.length} signals.`);
 }
 
 runScanner();
