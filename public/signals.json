@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ticker": "AVNS",
+    "price": "24.64",
+    "ema20": "24.12",
+    "stopLoss": "22.92",
+    "volumeSpike": "2.1x",
+    "dateFound": "2026-05-22"
+  },
+  {
+    "ticker": "HLIT",
+    "price": "14.99",
+    "ema20": "12.34",
+    "stopLoss": "13.95",
+    "volumeSpike": "2.4x",
+    "dateFound": "2026-05-22"
+  }
+]
