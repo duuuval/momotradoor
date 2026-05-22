@@ -40,21 +40,30 @@
                 const isHostile = rawData.isHostile;
                 const vixLevel = rawData.vix || "Unknown";
                 const timestamp = rawData.timestamp || "Unknown";
-                const scanDateOnly = rawData.dateOnly || "";
 
-                // Get today's EST date string to compare
-                const todayEst = new Date().toLocaleDateString("en-US", { timeZone: "America/New_York", year: 'numeric', month: 'long', day: 'numeric' });
+                // 24-Hour Freshness Logic
+                let hoursOld = 99;
+                let scanTimeString = "Unknown";
+                if (timestamp !== "Unknown") {
+                    const scanTime = new Date(timestamp);
+                    const now = new Date();
+                    hoursOld = (now.getTime() - scanTime.getTime()) / (1000 * 60 * 60);
+                    
+                    scanTimeString = scanTime.toLocaleString("en-US", {
+                        timeZone: "America/New_York",
+                        month: 'short', day: 'numeric',
+                        hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
+                    });
+                }
                 
-                // Determine Freshness
-                if (scanDateOnly === todayEst) {
-                    statusBadge.innerHTML = `<span class="bg-emerald-100 text-emerald-800 text-sm font-bold px-3 py-1.5 rounded-md border border-emerald-300 inline-flex items-center gap-1.5"><div class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></div> TODAY'S RESULTS</span>`;
+                if (hoursOld < 24) {
+                    statusBadge.innerHTML = `<span class="bg-emerald-100 text-emerald-800 text-sm font-bold px-3 py-1.5 rounded-md border border-emerald-300 inline-flex items-center gap-1.5"><div class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></div> FRESH RESULTS</span>`;
                 } else {
-                    statusBadge.innerHTML = `<span class="bg-amber-100 text-amber-800 text-sm font-bold px-3 py-1.5 rounded-md border border-amber-300">🟡 AWAITING TODAY'S SCAN</span>`;
+                    statusBadge.innerHTML = `<span class="bg-amber-100 text-amber-800 text-sm font-bold px-3 py-1.5 rounded-md border border-amber-300">🟡 WAITING FOR NEXT CLOSE</span>`;
                 }
 
-                vixMeta.innerText = `Market VIX: ${vixLevel} | Last Run: ${timestamp}`;
+                vixMeta.innerText = `Market VIX: ${vixLevel} | Last Run: ${scanTimeString}`;
 
-                // Render Warning Banner if Hostile
                 if (isHostile) {
                     banner.innerHTML = `
                         <div class="bg-red-600 text-white rounded-lg p-5 mb-8 shadow-md border-l-8 border-red-900">
