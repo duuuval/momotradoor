@@ -1,18 +1,106 @@
-[
-  {
-    "ticker": "AVNS",
-    "price": "24.64",
-    "ema20": "24.12",
-    "stopLoss": "22.92",
-    "volumeSpike": "2.1x",
-    "dateFound": "2026-05-22"
-  },
-  {
-    "ticker": "HLIT",
-    "price": "14.99",
-    "ema20": "12.34",
-    "stopLoss": "13.95",
-    "volumeSpike": "2.4x",
-    "dateFound": "2026-05-22"
-  }
-]
+{
+  "vix": "16.70",
+  "isHostile": false,
+  "timestamp": "2026-05-22T22:46:50.612Z",
+  "signals": [
+    {
+      "ticker": "AA",
+      "price": "71.38",
+      "dayChange": "+7.71%",
+      "ema20": "65.54",
+      "stopLoss": "66.38",
+      "dollarRisk": "5.00",
+      "volumeSpike": "1.6x",
+      "rawVolume": "6.91M",
+      "avgVolumeStr": "4.42M"
+    },
+    {
+      "ticker": "AAL",
+      "price": "13.85",
+      "dayChange": "+1.91%",
+      "ema20": "12.60",
+      "stopLoss": "12.88",
+      "dollarRisk": "0.97",
+      "volumeSpike": "1.6x",
+      "rawVolume": "98.67M",
+      "avgVolumeStr": "60.91M"
+    },
+    {
+      "ticker": "LNTH",
+      "price": "103.00",
+      "dayChange": "+9.03%",
+      "ema20": "91.93",
+      "stopLoss": "95.79",
+      "dollarRisk": "7.21",
+      "volumeSpike": "1.9x",
+      "rawVolume": "2.01M",
+      "avgVolumeStr": "1.08M"
+    },
+    {
+      "ticker": "AVNS",
+      "price": "24.61",
+      "dayChange": "-0.36%",
+      "ema20": "24.11",
+      "stopLoss": "22.89",
+      "dollarRisk": "1.72",
+      "volumeSpike": "3.7x",
+      "rawVolume": "3.50M",
+      "avgVolumeStr": "0.95M"
+    },
+    {
+      "ticker": "CALY",
+      "price": "15.38",
+      "dayChange": "-3.15%",
+      "ema20": "15.26",
+      "stopLoss": "14.30",
+      "dollarRisk": "1.08",
+      "volumeSpike": "1.9x",
+      "rawVolume": "6.56M",
+      "avgVolumeStr": "3.39M"
+    },
+    {
+      "ticker": "DRH",
+      "price": "10.71",
+      "dayChange": "-0.65%",
+      "ema20": "10.50",
+      "stopLoss": "9.96",
+      "dollarRisk": "0.75",
+      "volumeSpike": "2.8x",
+      "rawVolume": "4.00M",
+      "avgVolumeStr": "1.42M"
+    },
+    {
+      "ticker": "HLIT",
+      "price": "15.20",
+      "dayChange": "+19.69%",
+      "ema20": "12.36",
+      "stopLoss": "14.14",
+      "dollarRisk": "1.06",
+      "volumeSpike": "4.3x",
+      "rawVolume": "12.29M",
+      "avgVolumeStr": "2.85M"
+    },
+    {
+      "ticker": "SMTC",
+      "price": "156.78",
+      "dayChange": "+7.00%",
+      "ema20": "128.19",
+      "stopLoss": "145.81",
+      "dollarRisk": "10.97",
+      "volumeSpike": "2.2x",
+      "rawVolume": "6.36M",
+      "avgVolumeStr": "2.88M"
+    },
+    {
+      "ticker": "STEP",
+      "price": "53.74",
+      "dayChange": "-1.83%",
+      "ema20": "53.54",
+      "stopLoss": "49.98",
+      "dollarRisk": "3.76",
+      "volumeSpike": "1.5x",
+      "rawVolume": "1.26M",
+      "avgVolumeStr": "0.84M"
+    }
+  ]
+}
