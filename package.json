@@ -1,0 +1,8 @@
+{
+  "name": "momentum-radar",
+  "version": "1.0.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "yahoo-finance2": "^2.8.2"
+  }
+}
