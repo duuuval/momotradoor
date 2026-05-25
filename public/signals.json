@@ -1,7 +1,7 @@
 {
-  "vix": "16.70",
+  "vix": "16.59",
   "isHostile": false,
-  "timestamp": "2026-05-22T23:42:19.789Z",
+  "timestamp": "2026-05-25T23:43:20.944Z",
   "signals": [
     {
       "ticker": "AA",
@@ -11,7 +11,7 @@
       "stopLoss": "66.38",
       "dollarRisk": "5.00",
       "volumeSpike": "1.6x",
-      "rawVolume": "6.91M",
+      "rawVolume": "6.94M",
       "avgVolumeStr": "4.42M"
     },
     {
@@ -22,7 +22,7 @@
       "stopLoss": "12.88",
       "dollarRisk": "0.97",
       "volumeSpike": "1.6x",
-      "rawVolume": "98.67M",
+      "rawVolume": "99.26M",
       "avgVolumeStr": "60.91M"
     },
     {
@@ -33,8 +33,19 @@
       "stopLoss": "95.79",
       "dollarRisk": "7.21",
       "volumeSpike": "1.9x",
-      "rawVolume": "2.01M",
+      "rawVolume": "2.02M",
       "avgVolumeStr": "1.08M"
+    },
+    {
+      "ticker": "AKR",
+      "price": "21.96",
+      "dayChange": "+0.64%",
+      "ema20": "21.40",
+      "stopLoss": "20.42",
+      "dollarRisk": "1.54",
+      "volumeSpike": "1.5x",
+      "rawVolume": "1.34M",
+      "avgVolumeStr": "0.89M"
     },
     {
       "ticker": "HLIT",
@@ -43,8 +54,8 @@
       "ema20": "12.36",
       "stopLoss": "14.14",
       "dollarRisk": "1.06",
-      "volumeSpike": "4.3x",
-      "rawVolume": "12.29M",
+      "volumeSpike": "4.4x",
+      "rawVolume": "12.68M",
       "avgVolumeStr": "2.85M"
     },
     {
@@ -55,7 +66,7 @@
       "stopLoss": "145.81",
       "dollarRisk": "10.97",
       "volumeSpike": "2.2x",
-      "rawVolume": "6.36M",
+      "rawVolume": "6.41M",
       "avgVolumeStr": "2.88M"
     }
   ]
