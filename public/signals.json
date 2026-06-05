@@ -1,117 +1,29 @@
 {
-  "vix": "15.40",
+  "vix": "21.51",
   "isHostile": false,
-  "timestamp": "2026-06-04T23:48:37.546Z",
+  "timestamp": "2026-06-05T23:49:51.902Z",
   "signals": [
     {
-      "ticker": "M",
-      "price": "23.03",
-      "dayChange": "+5.64%",
-      "ema20": "20.80",
-      "stopLoss": "21.42",
-      "dollarRisk": "1.61",
-      "volumeSpike": "1.7x",
-      "rawVolume": "12.99M",
-      "avgVolumeStr": "7.53M"
+      "ticker": "NNN",
+      "price": "44.96",
+      "dayChange": "+2.23%",
+      "ema20": "44.36",
+      "stopLoss": "41.81",
+      "dollarRisk": "3.15",
+      "volumeSpike": "1.6x",
+      "rawVolume": "2.76M",
+      "avgVolumeStr": "1.74M"
     },
     {
-      "ticker": "ADEA",
-      "price": "32.36",
-      "dayChange": "+0.97%",
-      "ema20": "29.20",
-      "stopLoss": "30.09",
-      "dollarRisk": "2.27",
-      "volumeSpike": "1.8x",
-      "rawVolume": "3.89M",
-      "avgVolumeStr": "2.16M"
-    },
-    {
-      "ticker": "AUB",
-      "price": "37.76",
-      "dayChange": "+3.91%",
-      "ema20": "37.36",
-      "stopLoss": "35.12",
-      "dollarRisk": "2.64",
-      "volumeSpike": "1.5x",
-      "rawVolume": "1.47M",
-      "avgVolumeStr": "0.97M"
-    },
-    {
-      "ticker": "FFBC",
-      "price": "30.54",
-      "dayChange": "+2.59%",
-      "ema20": "30.31",
-      "stopLoss": "28.40",
-      "dollarRisk": "2.14",
-      "volumeSpike": "1.9x",
-      "rawVolume": "1.56M",
-      "avgVolumeStr": "0.83M"
-    },
-    {
-      "ticker": "FTRE",
-      "price": "17.25",
-      "dayChange": "+10.36%",
-      "ema20": "14.39",
-      "stopLoss": "16.04",
-      "dollarRisk": "1.21",
-      "volumeSpike": "2.4x",
-      "rawVolume": "2.99M",
-      "avgVolumeStr": "1.25M"
-    },
-    {
-      "ticker": "NEO",
-      "price": "11.31",
-      "dayChange": "+11.54%",
-      "ema20": "9.58",
-      "stopLoss": "10.52",
-      "dollarRisk": "0.79",
-      "volumeSpike": "2.0x",
-      "rawVolume": "2.47M",
-      "avgVolumeStr": "1.25M"
-    },
-    {
-      "ticker": "SDGR",
-      "price": "15.85",
-      "dayChange": "+6.16%",
-      "ema20": "13.80",
-      "stopLoss": "14.74",
-      "dollarRisk": "1.11",
-      "volumeSpike": "1.7x",
-      "rawVolume": "2.47M",
-      "avgVolumeStr": "1.50M"
-    },
-    {
-      "ticker": "SPHR",
-      "price": "142.18",
+      "ticker": "SNDR",
+      "price": "37.21",
       "dayChange": "+0.30%",
-      "ema20": "136.72",
-      "stopLoss": "132.23",
-      "dollarRisk": "9.95",
-      "volumeSpike": "1.7x",
-      "rawVolume": "1.05M",
-      "avgVolumeStr": "0.62M"
-    },
-    {
-      "ticker": "VECO",
-      "price": "63.66",
-      "dayChange": "+5.29%",
-      "ema20": "57.97",
-      "stopLoss": "59.20",
-      "dollarRisk": "4.46",
-      "volumeSpike": "2.7x",
-      "rawVolume": "2.44M",
-      "avgVolumeStr": "0.91M"
-    },
-    {
-      "ticker": "WSC",
-      "price": "26.48",
-      "dayChange": "+2.16%",
-      "ema20": "24.91",
-      "stopLoss": "24.63",
-      "dollarRisk": "1.85",
-      "volumeSpike": "1.7x",
-      "rawVolume": "2.91M",
-      "avgVolumeStr": "1.71M"
+      "ema20": "34.23",
+      "stopLoss": "34.61",
+      "dollarRisk": "2.60",
+      "volumeSpike": "1.6x",
+      "rawVolume": "1.31M",
+      "avgVolumeStr": "0.83M"
     }
   ]
 }
