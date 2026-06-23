@@ -1,117 +1,62 @@
 {
-  "vix": "17.28",
+  "vix": "19.49",
   "isHostile": false,
-  "timestamp": "2026-06-22T23:54:09.432Z",
+  "timestamp": "2026-06-23T23:40:27.714Z",
   "signals": [
     {
-      "ticker": "JHG",
-      "price": "51.92",
-      "dayChange": "+0.08%",
-      "ema20": "51.80",
-      "stopLoss": "48.29",
-      "dollarRisk": "3.63",
+      "ticker": "ACA",
+      "price": "144.92",
+      "dayChange": "+0.01%",
+      "ema20": "130.54",
+      "stopLoss": "134.78",
+      "dollarRisk": "10.14",
+      "volumeSpike": "3.3x",
+      "rawVolume": "2.53M",
+      "avgVolumeStr": "0.76M"
+    },
+    {
+      "ticker": "AROC",
+      "price": "39.06",
+      "dayChange": "+2.57%",
+      "ema20": "36.36",
+      "stopLoss": "36.33",
+      "dollarRisk": "2.73",
+      "volumeSpike": "1.7x",
+      "rawVolume": "2.87M",
+      "avgVolumeStr": "1.66M"
+    },
+    {
+      "ticker": "EPC",
+      "price": "26.22",
+      "dayChange": "+15.40%",
+      "ema20": "21.51",
+      "stopLoss": "24.38",
+      "dollarRisk": "1.84",
+      "volumeSpike": "2.6x",
+      "rawVolume": "2.75M",
+      "avgVolumeStr": "1.05M"
+    },
+    {
+      "ticker": "FHB",
+      "price": "28.60",
+      "dayChange": "+0.92%",
+      "ema20": "27.77",
+      "stopLoss": "26.60",
+      "dollarRisk": "2.00",
       "volumeSpike": "1.8x",
-      "rawVolume": "4.28M",
-      "avgVolumeStr": "2.42M"
-    },
-    {
-      "ticker": "BOOT",
-      "price": "178.46",
-      "dayChange": "+2.43%",
-      "ema20": "167.20",
-      "stopLoss": "165.97",
-      "dollarRisk": "12.49",
-      "volumeSpike": "1.6x",
-      "rawVolume": "1.09M",
-      "avgVolumeStr": "0.69M"
-    },
-    {
-      "ticker": "DNOW",
-      "price": "13.71",
-      "dayChange": "+1.56%",
-      "ema20": "13.45",
-      "stopLoss": "12.75",
-      "dollarRisk": "0.96",
-      "volumeSpike": "1.5x",
-      "rawVolume": "4.83M",
-      "avgVolumeStr": "3.15M"
-    },
-    {
-      "ticker": "ESI",
-      "price": "49.09",
-      "dayChange": "+6.79%",
-      "ema20": "43.44",
-      "stopLoss": "45.65",
-      "dollarRisk": "3.44",
-      "volumeSpike": "1.6x",
-      "rawVolume": "4.74M",
-      "avgVolumeStr": "2.97M"
+      "rawVolume": "2.38M",
+      "avgVolumeStr": "1.34M"
     },
     {
       "ticker": "KLIC",
-      "price": "124.22",
-      "dayChange": "+1.93%",
-      "ema20": "109.85",
-      "stopLoss": "115.52",
-      "dollarRisk": "8.70",
-      "volumeSpike": "1.8x",
-      "rawVolume": "1.71M",
-      "avgVolumeStr": "0.96M"
-    },
-    {
-      "ticker": "MARA",
-      "price": "14.85",
-      "dayChange": "+4.43%",
-      "ema20": "13.80",
-      "stopLoss": "13.81",
-      "dollarRisk": "1.04",
-      "volumeSpike": "1.8x",
-      "rawVolume": "66.77M",
-      "avgVolumeStr": "37.25M"
-    },
-    {
-      "ticker": "PENG",
-      "price": "67.94",
-      "dayChange": "+1.18%",
-      "ema20": "60.12",
-      "stopLoss": "63.18",
-      "dollarRisk": "4.76",
-      "volumeSpike": "1.8x",
-      "rawVolume": "4.99M",
-      "avgVolumeStr": "2.83M"
-    },
-    {
-      "ticker": "PTGX",
-      "price": "115.03",
-      "dayChange": "+1.92%",
-      "ema20": "106.27",
-      "stopLoss": "106.98",
-      "dollarRisk": "8.05",
-      "volumeSpike": "1.6x",
-      "rawVolume": "1.19M",
-      "avgVolumeStr": "0.74M"
-    },
-    {
-      "ticker": "QRVO",
-      "price": "101.98",
-      "dayChange": "+3.62%",
-      "ema20": "98.55",
-      "stopLoss": "94.84",
-      "dollarRisk": "7.14",
-      "volumeSpike": "1.7x",
-      "rawVolume": "2.21M",
-      "avgVolumeStr": "1.31M"
-    },
-    {
-      "ticker": "RCUS",
-      "price": "27.23",
-      "dayChange": "+12.01%",
-      "ema20": "24.26",
-      "stopLoss": "25.32",
-      "dollarRisk": "1.91",
+      "price": "127.10",
+      "dayChange": "+2.32%",
+      "ema20": "111.49",
+      "stopLoss": "118.20",
+      "dollarRisk": "8.90",
       "volumeSpike": "2.2x",
-      "rawVolume": "2.93M",
-      "avgVolumeStr": "1.31M"
+      "rawVolume": "2.31M",
+      "avgVolumeStr": "1.04M"
     }
   ]
 }
