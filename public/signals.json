@@ -1,84 +1,29 @@
 {
-  "vix": "16.59",
+  "vix": "16.15",
   "isHostile": false,
-  "timestamp": "2026-07-01T23:55:14.664Z",
+  "timestamp": "2026-07-02T23:40:06.752Z",
   "signals": [
     {
-      "ticker": "JHG",
-      "price": "51.95",
-      "dayChange": "+0.06%",
-      "ema20": "51.84",
-      "stopLoss": "48.31",
-      "dollarRisk": "3.64",
-      "volumeSpike": "2.3x",
-      "rawVolume": "8.67M",
-      "avgVolumeStr": "3.81M"
+      "ticker": "BRKR",
+      "price": "61.64",
+      "dayChange": "+1.65%",
+      "ema20": "57.34",
+      "stopLoss": "57.33",
+      "dollarRisk": "4.31",
+      "volumeSpike": "1.6x",
+      "rawVolume": "3.64M",
+      "avgVolumeStr": "2.22M"
     },
     {
-      "ticker": "MSM",
-      "price": "123.34",
-      "dayChange": "+3.69%",
-      "ema20": "116.35",
-      "stopLoss": "114.71",
-      "dollarRisk": "8.63",
-      "volumeSpike": "2.8x",
-      "rawVolume": "2.36M",
-      "avgVolumeStr": "0.83M"
-    },
-    {
-      "ticker": "ORI",
-      "price": "41.02",
-      "dayChange": "+0.24%",
-      "ema20": "39.66",
-      "stopLoss": "38.15",
-      "dollarRisk": "2.87",
-      "volumeSpike": "2.0x",
-      "rawVolume": "3.70M",
-      "avgVolumeStr": "1.83M"
-    },
-    {
-      "ticker": "ASTH",
-      "price": "49.81",
-      "dayChange": "+7.33%",
-      "ema20": "41.75",
-      "stopLoss": "46.32",
-      "dollarRisk": "3.49",
-      "volumeSpike": "1.9x",
-      "rawVolume": "1.70M",
-      "avgVolumeStr": "0.88M"
-    },
-    {
-      "ticker": "CON",
-      "price": "30.77",
-      "dayChange": "+3.43%",
-      "ema20": "28.29",
-      "stopLoss": "28.62",
-      "dollarRisk": "2.15",
-      "volumeSpike": "1.7x",
-      "rawVolume": "1.93M",
-      "avgVolumeStr": "1.13M"
-    },
-    {
-      "ticker": "DAVE",
-      "price": "383.13",
-      "dayChange": "+2.83%",
-      "ema20": "317.08",
-      "stopLoss": "356.31",
-      "dollarRisk": "26.82",
-      "volumeSpike": "1.7x",
-      "rawVolume": "1.07M",
-      "avgVolumeStr": "0.63M"
-    },
-    {
-      "ticker": "PRGS",
-      "price": "39.16",
-      "dayChange": "+16.62%",
-      "ema20": "31.88",
-      "stopLoss": "36.42",
-      "dollarRisk": "2.74",
-      "volumeSpike": "3.0x",
-      "rawVolume": "3.36M",
-      "avgVolumeStr": "1.14M"
+      "ticker": "IDA",
+      "price": "154.55",
+      "dayChange": "+2.95%",
+      "ema20": "146.71",
+      "stopLoss": "143.73",
+      "dollarRisk": "10.82",
+      "volumeSpike": "1.6x",
+      "rawVolume": "1.22M",
+      "avgVolumeStr": "0.77M"
     }
   ]
 }
