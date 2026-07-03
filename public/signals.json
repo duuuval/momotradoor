@@ -1,7 +1,7 @@
 {
-  "vix": "16.15",
+  "vix": "15.81",
   "isHostile": false,
-  "timestamp": "2026-07-02T23:40:06.752Z",
+  "timestamp": "2026-07-03T23:37:40.183Z",
   "signals": [
     {
       "ticker": "BRKR",
@@ -11,8 +11,30 @@
       "stopLoss": "57.33",
       "dollarRisk": "4.31",
       "volumeSpike": "1.6x",
-      "rawVolume": "3.64M",
+      "rawVolume": "3.65M",
       "avgVolumeStr": "2.22M"
+    },
+    {
+      "ticker": "CHH",
+      "price": "112.37",
+      "dayChange": "+2.84%",
+      "ema20": "110.99",
+      "stopLoss": "104.50",
+      "dollarRisk": "7.87",
+      "volumeSpike": "1.6x",
+      "rawVolume": "1.01M",
+      "avgVolumeStr": "0.63M"
+    },
+    {
+      "ticker": "HAE",
+      "price": "75.07",
+      "dayChange": "+0.29%",
+      "ema20": "73.45",
+      "stopLoss": "69.82",
+      "dollarRisk": "5.25",
+      "volumeSpike": "1.5x",
+      "rawVolume": "1.33M",
+      "avgVolumeStr": "0.86M"
     },
     {
       "ticker": "IDA",
@@ -21,9 +43,20 @@
       "ema20": "146.71",
       "stopLoss": "143.73",
       "dollarRisk": "10.82",
-      "volumeSpike": "1.6x",
-      "rawVolume": "1.22M",
+      "volumeSpike": "2.0x",
+      "rawVolume": "1.55M",
       "avgVolumeStr": "0.77M"
+    },
+    {
+      "ticker": "PTCT",
+      "price": "83.31",
+      "dayChange": "+2.41%",
+      "ema20": "78.93",
+      "stopLoss": "77.48",
+      "dollarRisk": "5.83",
+      "volumeSpike": "2.4x",
+      "rawVolume": "6.78M",
+      "avgVolumeStr": "2.79M"
     }
   ]
 }
