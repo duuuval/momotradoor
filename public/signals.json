@@ -1,8 +1,19 @@
 {
-  "vix": "15.57",
+  "vix": "16.13",
   "isHostile": false,
-  "timestamp": "2026-07-06T23:41:55.799Z",
+  "timestamp": "2026-07-07T23:32:54.493Z",
   "signals": [
+    {
+      "ticker": "STAG",
+      "price": "39.12",
+      "dayChange": "+0.05%",
+      "ema20": "38.57",
+      "stopLoss": "36.38",
+      "dollarRisk": "2.74",
+      "volumeSpike": "1.5x",
+      "rawVolume": "2.40M",
+      "avgVolumeStr": "1.55M"
+    },
     {
       "ticker": "STEL",
       "price": "39.32",
