@@ -1,29 +1,62 @@
 {
-  "vix": "16.13",
+  "vix": "16.90",
   "isHostile": false,
-  "timestamp": "2026-07-07T23:32:54.493Z",
+  "timestamp": "2026-07-08T23:39:05.431Z",
   "signals": [
     {
-      "ticker": "STAG",
-      "price": "39.12",
-      "dayChange": "+0.05%",
-      "ema20": "38.57",
-      "stopLoss": "36.38",
-      "dollarRisk": "2.74",
-      "volumeSpike": "1.5x",
-      "rawVolume": "2.40M",
-      "avgVolumeStr": "1.55M"
+      "ticker": "FR",
+      "price": "64.64",
+      "dayChange": "+0.33%",
+      "ema20": "62.87",
+      "stopLoss": "60.12",
+      "dollarRisk": "4.52",
+      "volumeSpike": "1.9x",
+      "rawVolume": "2.54M",
+      "avgVolumeStr": "1.36M"
     },
     {
-      "ticker": "STEL",
-      "price": "39.32",
-      "dayChange": "+0.03%",
-      "ema20": "38.56",
-      "stopLoss": "36.57",
-      "dollarRisk": "2.75",
-      "volumeSpike": "9.2x",
-      "rawVolume": "5.94M",
-      "avgVolumeStr": "0.65M"
+      "ticker": "EPAC",
+      "price": "36.46",
+      "dayChange": "+6.27%",
+      "ema20": "35.37",
+      "stopLoss": "33.91",
+      "dollarRisk": "2.55",
+      "volumeSpike": "2.2x",
+      "rawVolume": "1.29M",
+      "avgVolumeStr": "0.59M"
+    },
+    {
+      "ticker": "GSHD",
+      "price": "56.90",
+      "dayChange": "+2.34%",
+      "ema20": "46.27",
+      "stopLoss": "52.92",
+      "dollarRisk": "3.98",
+      "volumeSpike": "1.8x",
+      "rawVolume": "1.08M",
+      "avgVolumeStr": "0.61M"
+    },
+    {
+      "ticker": "PARR",
+      "price": "68.57",
+      "dayChange": "+11.57%",
+      "ema20": "57.65",
+      "stopLoss": "63.77",
+      "dollarRisk": "4.80",
+      "volumeSpike": "1.6x",
+      "rawVolume": "1.49M",
+      "avgVolumeStr": "0.91M"
+    },
+    {
+      "ticker": "PENG",
+      "price": "78.47",
+      "dayChange": "+25.13%",
+      "ema20": "65.46",
+      "stopLoss": "72.98",
+      "dollarRisk": "5.49",
+      "volumeSpike": "3.5x",
+      "rawVolume": "13.72M",
+      "avgVolumeStr": "3.86M"
     }
   ]
 }
