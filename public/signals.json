@@ -1,40 +1,29 @@
 {
-  "vix": "15.84",
+  "vix": "15.03",
   "isHostile": false,
-  "timestamp": "2026-07-09T23:49:18.607Z",
+  "timestamp": "2026-07-10T23:31:40.663Z",
   "signals": [
     {
-      "ticker": "PATH",
-      "price": "11.80",
-      "dayChange": "+3.33%",
-      "ema20": "11.10",
-      "stopLoss": "10.97",
-      "dollarRisk": "0.83",
-      "volumeSpike": "1.5x",
-      "rawVolume": "98.07M",
-      "avgVolumeStr": "63.69M"
+      "ticker": "CAKE",
+      "price": "82.76",
+      "dayChange": "+5.53%",
+      "ema20": "76.51",
+      "stopLoss": "76.97",
+      "dollarRisk": "5.79",
+      "volumeSpike": "1.8x",
+      "rawVolume": "2.29M",
+      "avgVolumeStr": "1.27M"
     },
     {
-      "ticker": "PENG",
-      "price": "81.39",
-      "dayChange": "+3.72%",
-      "ema20": "66.98",
-      "stopLoss": "75.69",
-      "dollarRisk": "5.70",
-      "volumeSpike": "1.9x",
-      "rawVolume": "8.88M",
-      "avgVolumeStr": "4.76M"
-    },
-    {
-      "ticker": "SMPL",
-      "price": "13.01",
-      "dayChange": "+1.32%",
-      "ema20": "12.78",
-      "stopLoss": "12.10",
-      "dollarRisk": "0.91",
-      "volumeSpike": "2.8x",
-      "rawVolume": "6.88M",
-      "avgVolumeStr": "2.45M"
+      "ticker": "JXN",
+      "price": "116.76",
+      "dayChange": "+5.39%",
+      "ema20": "108.39",
+      "stopLoss": "108.59",
+      "dollarRisk": "8.17",
+      "volumeSpike": "2.0x",
+      "rawVolume": "1.28M",
+      "avgVolumeStr": "0.63M"
     }
   ]
 }
