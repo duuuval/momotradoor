@@ -1,29 +1,73 @@
 {
-  "vix": "15.03",
+  "vix": "17.16",
   "isHostile": false,
-  "timestamp": "2026-07-10T23:31:40.663Z",
+  "timestamp": "2026-07-13T23:29:34.722Z",
   "signals": [
     {
-      "ticker": "CAKE",
-      "price": "82.76",
-      "dayChange": "+5.53%",
-      "ema20": "76.51",
-      "stopLoss": "76.97",
-      "dollarRisk": "5.79",
-      "volumeSpike": "1.8x",
-      "rawVolume": "2.29M",
-      "avgVolumeStr": "1.27M"
+      "ticker": "FNB",
+      "price": "18.93",
+      "dayChange": "+0.53%",
+      "ema20": "18.70",
+      "stopLoss": "17.60",
+      "dollarRisk": "1.33",
+      "volumeSpike": "2.4x",
+      "rawVolume": "10.58M",
+      "avgVolumeStr": "4.37M"
     },
     {
-      "ticker": "JXN",
-      "price": "116.76",
-      "dayChange": "+5.39%",
-      "ema20": "108.39",
-      "stopLoss": "108.59",
-      "dollarRisk": "8.17",
+      "ticker": "NSA",
+      "price": "45.06",
+      "dayChange": "+0.67%",
+      "ema20": "44.80",
+      "stopLoss": "41.91",
+      "dollarRisk": "3.15",
+      "volumeSpike": "2.7x",
+      "rawVolume": "1.99M",
+      "avgVolumeStr": "0.72M"
+    },
+    {
+      "ticker": "STAG",
+      "price": "39.08",
+      "dayChange": "+0.26%",
+      "ema20": "38.69",
+      "stopLoss": "36.34",
+      "dollarRisk": "2.74",
+      "volumeSpike": "1.7x",
+      "rawVolume": "2.54M",
+      "avgVolumeStr": "1.49M"
+    },
+    {
+      "ticker": "CPRX",
+      "price": "31.48",
+      "dayChange": "+0.03%",
+      "ema20": "31.39",
+      "stopLoss": "29.28",
+      "dollarRisk": "2.20",
+      "volumeSpike": "1.5x",
+      "rawVolume": "3.37M",
+      "avgVolumeStr": "2.18M"
+    },
+    {
+      "ticker": "HTO",
+      "price": "62.47",
+      "dayChange": "+1.63%",
+      "ema20": "60.19",
+      "stopLoss": "58.10",
+      "dollarRisk": "4.37",
       "volumeSpike": "2.0x",
-      "rawVolume": "1.28M",
-      "avgVolumeStr": "0.63M"
+      "rawVolume": "1.08M",
+      "avgVolumeStr": "0.53M"
+    },
+    {
+      "ticker": "RHI",
+      "price": "35.59",
+      "dayChange": "+9.85%",
+      "ema20": "32.25",
+      "stopLoss": "33.10",
+      "dollarRisk": "2.49",
+      "volumeSpike": "1.6x",
+      "rawVolume": "3.27M",
+      "avgVolumeStr": "2.09M"
     }
   ]
 }
