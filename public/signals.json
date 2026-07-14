@@ -1,73 +1,51 @@
 {
-  "vix": "17.16",
+  "vix": "16.50",
   "isHostile": false,
-  "timestamp": "2026-07-13T23:29:34.722Z",
+  "timestamp": "2026-07-14T23:29:41.699Z",
   "signals": [
     {
-      "ticker": "FNB",
-      "price": "18.93",
-      "dayChange": "+0.53%",
-      "ema20": "18.70",
-      "stopLoss": "17.60",
-      "dollarRisk": "1.33",
-      "volumeSpike": "2.4x",
-      "rawVolume": "10.58M",
-      "avgVolumeStr": "4.37M"
-    },
-    {
-      "ticker": "NSA",
-      "price": "45.06",
-      "dayChange": "+0.67%",
-      "ema20": "44.80",
-      "stopLoss": "41.91",
-      "dollarRisk": "3.15",
-      "volumeSpike": "2.7x",
-      "rawVolume": "1.99M",
-      "avgVolumeStr": "0.72M"
+      "ticker": "AVTR",
+      "price": "11.29",
+      "dayChange": "+6.91%",
+      "ema20": "10.08",
+      "stopLoss": "10.50",
+      "dollarRisk": "0.79",
+      "volumeSpike": "1.7x",
+      "rawVolume": "13.33M",
+      "avgVolumeStr": "7.79M"
     },
     {
       "ticker": "STAG",
-      "price": "39.08",
-      "dayChange": "+0.26%",
-      "ema20": "38.69",
-      "stopLoss": "36.34",
-      "dollarRisk": "2.74",
-      "volumeSpike": "1.7x",
-      "rawVolume": "2.54M",
-      "avgVolumeStr": "1.49M"
+      "price": "39.34",
+      "dayChange": "+0.67%",
+      "ema20": "38.75",
+      "stopLoss": "36.59",
+      "dollarRisk": "2.75",
+      "volumeSpike": "1.6x",
+      "rawVolume": "2.41M",
+      "avgVolumeStr": "1.53M"
     },
     {
       "ticker": "CPRX",
-      "price": "31.48",
+      "price": "31.49",
       "dayChange": "+0.03%",
-      "ema20": "31.39",
-      "stopLoss": "29.28",
+      "ema20": "31.40",
+      "stopLoss": "29.29",
       "dollarRisk": "2.20",
-      "volumeSpike": "1.5x",
-      "rawVolume": "3.37M",
-      "avgVolumeStr": "2.18M"
+      "volumeSpike": "4.6x",
+      "rawVolume": "9.70M",
+      "avgVolumeStr": "2.11M"
     },
     {
-      "ticker": "HTO",
-      "price": "62.47",
-      "dayChange": "+1.63%",
-      "ema20": "60.19",
-      "stopLoss": "58.10",
-      "dollarRisk": "4.37",
-      "volumeSpike": "2.0x",
-      "rawVolume": "1.08M",
-      "avgVolumeStr": "0.53M"
-    },
-    {
-      "ticker": "RHI",
-      "price": "35.59",
-      "dayChange": "+9.85%",
-      "ema20": "32.25",
-      "stopLoss": "33.10",
-      "dollarRisk": "2.49",
-      "volumeSpike": "1.6x",
-      "rawVolume": "3.27M",
-      "avgVolumeStr": "2.09M"
+      "ticker": "WSR",
+      "price": "18.99",
+      "dayChange": "0.00%",
+      "ema20": "18.98",
+      "stopLoss": "17.66",
+      "dollarRisk": "1.33",
+      "volumeSpike": "2.7x",
+      "rawVolume": "1.87M",
+      "avgVolumeStr": "0.68M"
     }
   ]
 }
