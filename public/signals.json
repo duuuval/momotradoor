@@ -1,29 +1,51 @@
 {
-  "vix": "16.50",
+  "vix": "15.67",
   "isHostile": false,
-  "timestamp": "2026-07-14T23:29:41.699Z",
+  "timestamp": "2026-07-15T23:32:31.509Z",
   "signals": [
     {
-      "ticker": "AVTR",
-      "price": "11.29",
-      "dayChange": "+6.91%",
-      "ema20": "10.08",
-      "stopLoss": "10.50",
-      "dollarRisk": "0.79",
-      "volumeSpike": "1.7x",
-      "rawVolume": "13.33M",
-      "avgVolumeStr": "7.79M"
+      "ticker": "BILL",
+      "price": "44.63",
+      "dayChange": "+7.88%",
+      "ema20": "38.90",
+      "stopLoss": "41.51",
+      "dollarRisk": "3.12",
+      "volumeSpike": "1.6x",
+      "rawVolume": "3.46M",
+      "avgVolumeStr": "2.22M"
     },
     {
-      "ticker": "STAG",
-      "price": "39.34",
-      "dayChange": "+0.67%",
-      "ema20": "38.75",
-      "stopLoss": "36.59",
-      "dollarRisk": "2.75",
-      "volumeSpike": "1.6x",
-      "rawVolume": "2.41M",
-      "avgVolumeStr": "1.53M"
+      "ticker": "PATH",
+      "price": "11.95",
+      "dayChange": "+0.08%",
+      "ema20": "11.35",
+      "stopLoss": "11.11",
+      "dollarRisk": "0.84",
+      "volumeSpike": "1.7x",
+      "rawVolume": "125.42M",
+      "avgVolumeStr": "74.38M"
+    },
+    {
+      "ticker": "RH",
+      "price": "190.26",
+      "dayChange": "+9.00%",
+      "ema20": "163.35",
+      "stopLoss": "176.94",
+      "dollarRisk": "13.32",
+      "volumeSpike": "1.8x",
+      "rawVolume": "1.29M",
+      "avgVolumeStr": "0.72M"
+    },
+    {
+      "ticker": "ACIW",
+      "price": "57.04",
+      "dayChange": "+3.50%",
+      "ema20": "52.11",
+      "stopLoss": "53.05",
+      "dollarRisk": "3.99",
+      "volumeSpike": "2.3x",
+      "rawVolume": "2.27M",
+      "avgVolumeStr": "0.99M"
     },
     {
       "ticker": "CPRX",
@@ -32,20 +54,86 @@
       "ema20": "31.40",
       "stopLoss": "29.29",
       "dollarRisk": "2.20",
-      "volumeSpike": "4.6x",
-      "rawVolume": "9.70M",
+      "volumeSpike": "7.4x",
+      "rawVolume": "15.51M",
       "avgVolumeStr": "2.11M"
     },
     {
-      "ticker": "WSR",
-      "price": "18.99",
-      "dayChange": "0.00%",
-      "ema20": "18.98",
-      "stopLoss": "17.66",
-      "dollarRisk": "1.33",
-      "volumeSpike": "2.7x",
-      "rawVolume": "1.87M",
-      "avgVolumeStr": "0.68M"
+      "ticker": "FA",
+      "price": "21.17",
+      "dayChange": "+0.09%",
+      "ema20": "18.90",
+      "stopLoss": "19.69",
+      "dollarRisk": "1.48",
+      "volumeSpike": "2.6x",
+      "rawVolume": "4.00M",
+      "avgVolumeStr": "1.54M"
+    },
+    {
+      "ticker": "FIBK",
+      "price": "39.35",
+      "dayChange": "+1.05%",
+      "ema20": "38.26",
+      "stopLoss": "36.60",
+      "dollarRisk": "2.75",
+      "volumeSpike": "1.7x",
+      "rawVolume": "1.65M",
+      "avgVolumeStr": "0.95M"
+    },
+    {
+      "ticker": "HUBG",
+      "price": "47.80",
+      "dayChange": "+1.10%",
+      "ema20": "45.53",
+      "stopLoss": "44.45",
+      "dollarRisk": "3.35",
+      "volumeSpike": "1.8x",
+      "rawVolume": "1.24M",
+      "avgVolumeStr": "0.67M"
+    },
+    {
+      "ticker": "KMX",
+      "price": "58.94",
+      "dayChange": "+5.76%",
+      "ema20": "52.19",
+      "stopLoss": "54.81",
+      "dollarRisk": "4.13",
+      "volumeSpike": "1.8x",
+      "rawVolume": "4.71M",
+      "avgVolumeStr": "2.61M"
+    },
+    {
+      "ticker": "LTC",
+      "price": "40.06",
+      "dayChange": "+0.07%",
+      "ema20": "38.69",
+      "stopLoss": "37.26",
+      "dollarRisk": "2.80",
+      "volumeSpike": "2.5x",
+      "rawVolume": "1.27M",
+      "avgVolumeStr": "0.50M"
+    },
+    {
+      "ticker": "MD",
+      "price": "25.88",
+      "dayChange": "+7.34%",
+      "ema20": "25.30",
+      "stopLoss": "24.07",
+      "dollarRisk": "1.81",
+      "volumeSpike": "1.7x",
+      "rawVolume": "1.37M",
+      "avgVolumeStr": "0.81M"
+    },
+    {
+      "ticker": "RELY",
+      "price": "24.96",
+      "dayChange": "+6.12%",
+      "ema20": "22.78",
+      "stopLoss": "23.21",
+      "dollarRisk": "1.75",
+      "volumeSpike": "1.6x",
+      "rawVolume": "4.10M",
+      "avgVolumeStr": "2.64M"
     }
   ]
 }
