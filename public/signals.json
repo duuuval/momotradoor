@@ -1,62 +1,128 @@
 {
-  "vix": "18.65",
+  "vix": "17.05",
   "isHostile": false,
-  "timestamp": "2026-07-20T23:35:53.332Z",
+  "timestamp": "2026-07-21T23:33:38.371Z",
   "signals": [
     {
+      "ticker": "BRKR",
+      "price": "60.43",
+      "dayChange": "+7.58%",
+      "ema20": "58.47",
+      "stopLoss": "56.20",
+      "dollarRisk": "4.23",
+      "volumeSpike": "1.5x",
+      "rawVolume": "2.73M",
+      "avgVolumeStr": "1.76M"
+    },
+    {
+      "ticker": "CCK",
+      "price": "117.99",
+      "dayChange": "+2.98%",
+      "ema20": "111.08",
+      "stopLoss": "109.73",
+      "dollarRisk": "8.26",
+      "volumeSpike": "3.0x",
+      "rawVolume": "2.97M",
+      "avgVolumeStr": "0.98M"
+    },
+    {
       "ticker": "HOG",
-      "price": "27.82",
-      "dayChange": "+4.67%",
-      "ema20": "25.66",
-      "stopLoss": "25.87",
-      "dollarRisk": "1.95",
-      "volumeSpike": "2.6x",
-      "rawVolume": "5.27M",
-      "avgVolumeStr": "2.01M"
+      "price": "28.45",
+      "dayChange": "+2.26%",
+      "ema20": "25.93",
+      "stopLoss": "26.46",
+      "dollarRisk": "1.99",
+      "volumeSpike": "2.0x",
+      "rawVolume": "4.71M",
+      "avgVolumeStr": "2.32M"
     },
     {
       "ticker": "HXL",
-      "price": "105.73",
-      "dayChange": "+1.85%",
-      "ema20": "99.94",
-      "stopLoss": "98.33",
-      "dollarRisk": "7.40",
-      "volumeSpike": "2.0x",
-      "rawVolume": "1.94M",
-      "avgVolumeStr": "0.96M"
+      "price": "108.67",
+      "dayChange": "+2.78%",
+      "ema20": "100.77",
+      "stopLoss": "101.06",
+      "dollarRisk": "7.61",
+      "volumeSpike": "1.5x",
+      "rawVolume": "1.54M",
+      "avgVolumeStr": "1.00M"
     },
     {
-      "ticker": "PATH",
-      "price": "12.16",
-      "dayChange": "+0.08%",
-      "ema20": "11.55",
-      "stopLoss": "11.31",
-      "dollarRisk": "0.85",
-      "volumeSpike": "1.9x",
-      "rawVolume": "169.68M",
-      "avgVolumeStr": "87.13M"
-    },
-    {
-      "ticker": "VSXY",
-      "price": "87.41",
-      "dayChange": "+7.32%",
-      "ema20": "79.91",
-      "stopLoss": "81.29",
-      "dollarRisk": "6.12",
+      "ticker": "OHI",
+      "price": "50.60",
+      "dayChange": "+2.06%",
+      "ema20": "48.58",
+      "stopLoss": "47.06",
+      "dollarRisk": "3.54",
       "volumeSpike": "1.6x",
-      "rawVolume": "2.16M",
-      "avgVolumeStr": "1.33M"
+      "rawVolume": "2.55M",
+      "avgVolumeStr": "1.58M"
     },
     {
-      "ticker": "WERN",
-      "price": "46.31",
-      "dayChange": "+0.59%",
-      "ema20": "43.91",
-      "stopLoss": "43.07",
-      "dollarRisk": "3.24",
+      "ticker": "SBRA",
+      "price": "22.04",
+      "dayChange": "+10.20%",
+      "ema20": "19.90",
+      "stopLoss": "20.50",
+      "dollarRisk": "1.54",
+      "volumeSpike": "2.4x",
+      "rawVolume": "6.69M",
+      "avgVolumeStr": "2.82M"
+    },
+    {
+      "ticker": "AUB",
+      "price": "42.81",
+      "dayChange": "+1.86%",
+      "ema20": "41.69",
+      "stopLoss": "39.81",
+      "dollarRisk": "3.00",
+      "volumeSpike": "2.3x",
+      "rawVolume": "2.65M",
+      "avgVolumeStr": "1.13M"
+    },
+    {
+      "ticker": "BANC",
+      "price": "21.83",
+      "dayChange": "+4.90%",
+      "ema20": "20.67",
+      "stopLoss": "20.30",
+      "dollarRisk": "1.53",
+      "volumeSpike": "3.8x",
+      "rawVolume": "7.67M",
+      "avgVolumeStr": "2.01M"
+    },
+    {
+      "ticker": "DRH",
+      "price": "12.97",
+      "dayChange": "+1.73%",
+      "ema20": "12.18",
+      "stopLoss": "12.06",
+      "dollarRisk": "0.91",
+      "volumeSpike": "1.7x",
+      "rawVolume": "3.82M",
+      "avgVolumeStr": "2.28M"
+    },
+    {
+      "ticker": "HRMY",
+      "price": "36.84",
+      "dayChange": "+9.97%",
+      "ema20": "35.21",
+      "stopLoss": "34.26",
+      "dollarRisk": "2.58",
+      "volumeSpike": "2.2x",
+      "rawVolume": "1.97M",
+      "avgVolumeStr": "0.88M"
+    },
+    {
+      "ticker": "LXP",
+      "price": "61.15",
+      "dayChange": "+0.49%",
+      "ema20": "56.32",
+      "stopLoss": "56.87",
+      "dollarRisk": "4.28",
       "volumeSpike": "1.9x",
-      "rawVolume": "1.74M",
-      "avgVolumeStr": "0.91M"
+      "rawVolume": "1.46M",
+      "avgVolumeStr": "0.78M"
     },
     {
       "ticker": "WSR",
@@ -71,14 +137,14 @@
     },
     {
       "ticker": "XNCR",
-      "price": "18.81",
-      "dayChange": "+7.67%",
-      "ema20": "15.36",
-      "stopLoss": "17.49",
-      "dollarRisk": "1.32",
-      "volumeSpike": "3.4x",
-      "rawVolume": "2.85M",
-      "avgVolumeStr": "0.85M"
+      "price": "20.45",
+      "dayChange": "+8.72%",
+      "ema20": "15.84",
+      "stopLoss": "19.02",
+      "dollarRisk": "1.43",
+      "volumeSpike": "1.6x",
+      "rawVolume": "1.75M",
+      "avgVolumeStr": "1.08M"
     }
   ]
 }
