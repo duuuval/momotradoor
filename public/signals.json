@@ -1,73 +1,73 @@
 {
-  "vix": "15.28",
+  "vix": "14.55",
   "isHostile": false,
-  "timestamp": "2026-08-11T23:14:53.714Z",
+  "timestamp": "2026-08-12T23:12:51.045Z",
   "signals": [
     {
-      "ticker": "ARMK",
-      "price": "60.47",
-      "dayChange": "+8.54%",
-      "ema20": "56.90",
-      "stopLoss": "56.24",
-      "dollarRisk": "4.23",
-      "volumeSpike": "1.8x",
-      "rawVolume": "4.78M",
-      "avgVolumeStr": "2.62M"
-    },
-    {
-      "ticker": "BMRN",
-      "price": "69.55",
-      "dayChange": "+0.97%",
-      "ema20": "61.86",
-      "stopLoss": "64.68",
-      "dollarRisk": "4.87",
-      "volumeSpike": "1.5x",
-      "rawVolume": "3.77M",
-      "avgVolumeStr": "2.50M"
-    },
-    {
       "ticker": "HRB",
-      "price": "46.67",
-      "dayChange": "+1.61%",
-      "ema20": "43.88",
-      "stopLoss": "43.40",
-      "dollarRisk": "3.27",
-      "volumeSpike": "1.7x",
-      "rawVolume": "3.92M",
-      "avgVolumeStr": "2.35M"
+      "price": "54.18",
+      "dayChange": "+16.09%",
+      "ema20": "44.74",
+      "stopLoss": "50.39",
+      "dollarRisk": "3.79",
+      "volumeSpike": "2.9x",
+      "rawVolume": "7.52M",
+      "avgVolumeStr": "2.57M"
     },
     {
-      "ticker": "P",
-      "price": "109.38",
-      "dayChange": "+11.64%",
-      "ema20": "83.19",
-      "stopLoss": "101.72",
-      "dollarRisk": "7.66",
-      "volumeSpike": "2.0x",
-      "rawVolume": "5.49M",
-      "avgVolumeStr": "2.80M"
+      "ticker": "EAT",
+      "price": "245.89",
+      "dayChange": "+11.07%",
+      "ema20": "209.59",
+      "stopLoss": "228.68",
+      "dollarRisk": "17.21",
+      "volumeSpike": "2.2x",
+      "rawVolume": "2.46M",
+      "avgVolumeStr": "1.14M"
     },
     {
-      "ticker": "PFGC",
-      "price": "113.96",
-      "dayChange": "+0.15%",
-      "ema20": "112.99",
-      "stopLoss": "105.98",
-      "dollarRisk": "7.98",
-      "volumeSpike": "1.9x",
-      "rawVolume": "2.68M",
-      "avgVolumeStr": "1.45M"
+      "ticker": "GO",
+      "price": "10.17",
+      "dayChange": "+3.46%",
+      "ema20": "9.69",
+      "stopLoss": "9.46",
+      "dollarRisk": "0.71",
+      "volumeSpike": "1.6x",
+      "rawVolume": "4.05M",
+      "avgVolumeStr": "2.51M"
     },
     {
-      "ticker": "HZO",
-      "price": "52.46",
-      "dayChange": "+0.65%",
-      "ema20": "38.20",
-      "stopLoss": "48.79",
-      "dollarRisk": "3.67",
-      "volumeSpike": "2.0x",
-      "rawVolume": "2.02M",
-      "avgVolumeStr": "1.02M"
+      "ticker": "KTB",
+      "price": "81.60",
+      "dayChange": "+8.86%",
+      "ema20": "81.59",
+      "stopLoss": "75.89",
+      "dollarRisk": "5.71",
+      "volumeSpike": "2.2x",
+      "rawVolume": "1.47M",
+      "avgVolumeStr": "0.67M"
+    },
+    {
+      "ticker": "OGN",
+      "price": "13.66",
+      "dayChange": "+0.07%",
+      "ema20": "13.56",
+      "stopLoss": "12.70",
+      "dollarRisk": "0.96",
+      "volumeSpike": "2.3x",
+      "rawVolume": "5.16M",
+      "avgVolumeStr": "2.21M"
+    },
+    {
+      "ticker": "REZI",
+      "price": "25.71",
+      "dayChange": "+6.06%",
+      "ema20": "24.75",
+      "stopLoss": "23.91",
+      "dollarRisk": "1.80",
+      "volumeSpike": "1.5x",
+      "rawVolume": "3.01M",
+      "avgVolumeStr": "1.97M"
     }
   ]
 }
