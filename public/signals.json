@@ -1,18 +1,29 @@
 {
-  "vix": "14.25",
+  "vix": "15.19",
   "isHostile": false,
-  "timestamp": "2026-08-14T22:52:14.987Z",
+  "timestamp": "2026-08-17T22:53:38.467Z",
   "signals": [
     {
-      "ticker": "SFNC",
-      "price": "24.07",
-      "dayChange": "+0.56%",
-      "ema20": "23.53",
-      "stopLoss": "22.39",
-      "dollarRisk": "1.69",
-      "volumeSpike": "2.2x",
-      "rawVolume": "2.69M",
-      "avgVolumeStr": "1.21M"
+      "ticker": "BBT",
+      "price": "32.61",
+      "dayChange": "+1.68%",
+      "ema20": "31.44",
+      "stopLoss": "30.33",
+      "dollarRisk": "2.28",
+      "volumeSpike": "1.6x",
+      "rawVolume": "1.09M",
+      "avgVolumeStr": "0.69M"
+    },
+    {
+      "ticker": "OII",
+      "price": "54.11",
+      "dayChange": "+3.66%",
+      "ema20": "49.05",
+      "stopLoss": "50.32",
+      "dollarRisk": "3.79",
+      "volumeSpike": "2.9x",
+      "rawVolume": "2.03M",
+      "avgVolumeStr": "0.70M"
     }
   ]
 }
