@@ -1,29 +1,73 @@
 {
-  "vix": "15.19",
+  "vix": "15.84",
   "isHostile": false,
-  "timestamp": "2026-08-17T22:53:38.467Z",
+  "timestamp": "2026-08-18T22:53:03.032Z",
   "signals": [
     {
-      "ticker": "BBT",
-      "price": "32.61",
-      "dayChange": "+1.68%",
-      "ema20": "31.44",
-      "stopLoss": "30.33",
-      "dollarRisk": "2.28",
-      "volumeSpike": "1.6x",
-      "rawVolume": "1.09M",
-      "avgVolumeStr": "0.69M"
+      "ticker": "DT",
+      "price": "49.26",
+      "dayChange": "+3.47%",
+      "ema20": "47.34",
+      "stopLoss": "45.81",
+      "dollarRisk": "3.45",
+      "volumeSpike": "2.3x",
+      "rawVolume": "17.99M",
+      "avgVolumeStr": "7.87M"
     },
     {
-      "ticker": "OII",
-      "price": "54.11",
-      "dayChange": "+3.66%",
-      "ema20": "49.05",
-      "stopLoss": "50.32",
-      "dollarRisk": "3.79",
-      "volumeSpike": "2.9x",
-      "rawVolume": "2.03M",
-      "avgVolumeStr": "0.70M"
+      "ticker": "HAE",
+      "price": "104.65",
+      "dayChange": "+15.93%",
+      "ema20": "87.22",
+      "stopLoss": "97.32",
+      "dollarRisk": "7.33",
+      "volumeSpike": "2.8x",
+      "rawVolume": "2.30M",
+      "avgVolumeStr": "0.83M"
+    },
+    {
+      "ticker": "UGI",
+      "price": "38.39",
+      "dayChange": "+9.40%",
+      "ema20": "35.74",
+      "stopLoss": "35.70",
+      "dollarRisk": "2.69",
+      "volumeSpike": "7.3x",
+      "rawVolume": "12.02M",
+      "avgVolumeStr": "1.65M"
+    },
+    {
+      "ticker": "MAN",
+      "price": "59.48",
+      "dayChange": "+4.77%",
+      "ema20": "54.12",
+      "stopLoss": "55.32",
+      "dollarRisk": "4.16",
+      "volumeSpike": "1.6x",
+      "rawVolume": "1.28M",
+      "avgVolumeStr": "0.82M"
+    },
+    {
+      "ticker": "VIRT",
+      "price": "61.05",
+      "dayChange": "+2.61%",
+      "ema20": "58.39",
+      "stopLoss": "56.78",
+      "dollarRisk": "4.27",
+      "volumeSpike": "1.9x",
+      "rawVolume": "2.06M",
+      "avgVolumeStr": "1.08M"
+    },
+    {
+      "ticker": "XNCR",
+      "price": "25.41",
+      "dayChange": "+9.90%",
+      "ema20": "21.12",
+      "stopLoss": "23.63",
+      "dollarRisk": "1.78",
+      "volumeSpike": "1.5x",
+      "rawVolume": "1.58M",
+      "avgVolumeStr": "1.04M"
     }
   ]
 }
