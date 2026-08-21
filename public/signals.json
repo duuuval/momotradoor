@@ -1,106 +1,62 @@
 {
-  "vix": "16.01",
+  "vix": "15.13",
   "isHostile": false,
-  "timestamp": "2026-08-20T22:58:23.623Z",
+  "timestamp": "2026-08-21T22:54:11.385Z",
   "signals": [
     {
-      "ticker": "ALSN",
-      "price": "129.12",
-      "dayChange": "+3.44%",
-      "ema20": "122.37",
-      "stopLoss": "120.08",
-      "dollarRisk": "9.04",
+      "ticker": "BJ",
+      "price": "96.42",
+      "dayChange": "+5.61%",
+      "ema20": "93.99",
+      "stopLoss": "89.67",
+      "dollarRisk": "6.75",
+      "volumeSpike": "1.9x",
+      "rawVolume": "3.61M",
+      "avgVolumeStr": "1.90M"
+    },
+    {
+      "ticker": "CG",
+      "price": "49.37",
+      "dayChange": "+2.88%",
+      "ema20": "48.07",
+      "stopLoss": "45.91",
+      "dollarRisk": "3.46",
+      "volumeSpike": "1.9x",
+      "rawVolume": "8.17M",
+      "avgVolumeStr": "4.25M"
+    },
+    {
+      "ticker": "CNH",
+      "price": "11.87",
+      "dayChange": "+8.40%",
+      "ema20": "10.71",
+      "stopLoss": "11.04",
+      "dollarRisk": "0.83",
       "volumeSpike": "1.6x",
-      "rawVolume": "1.03M",
-      "avgVolumeStr": "0.65M"
+      "rawVolume": "23.94M",
+      "avgVolumeStr": "14.89M"
     },
     {
-      "ticker": "G",
-      "price": "36.93",
-      "dayChange": "+1.46%",
-      "ema20": "34.17",
-      "stopLoss": "34.34",
-      "dollarRisk": "2.59",
-      "volumeSpike": "2.0x",
-      "rawVolume": "5.12M",
-      "avgVolumeStr": "2.56M"
+      "ticker": "CVI",
+      "price": "39.51",
+      "dayChange": "+10.27%",
+      "ema20": "34.99",
+      "stopLoss": "36.74",
+      "dollarRisk": "2.77",
+      "volumeSpike": "2.3x",
+      "rawVolume": "1.77M",
+      "avgVolumeStr": "0.75M"
     },
     {
-      "ticker": "ILMN",
-      "price": "213.24",
-      "dayChange": "+4.02%",
-      "ema20": "194.81",
-      "stopLoss": "198.31",
-      "dollarRisk": "14.93",
-      "volumeSpike": "2.0x",
-      "rawVolume": "3.28M",
-      "avgVolumeStr": "1.62M"
-    },
-    {
-      "ticker": "RGEN",
-      "price": "180.29",
-      "dayChange": "+2.23%",
-      "ema20": "160.54",
-      "stopLoss": "167.67",
-      "dollarRisk": "12.62",
-      "volumeSpike": "1.7x",
-      "rawVolume": "1.59M",
-      "avgVolumeStr": "0.91M"
-    },
-    {
-      "ticker": "GEO",
-      "price": "31.72",
-      "dayChange": "+3.39%",
-      "ema20": "30.80",
-      "stopLoss": "29.50",
-      "dollarRisk": "2.22",
-      "volumeSpike": "1.7x",
-      "rawVolume": "3.76M",
-      "avgVolumeStr": "2.16M"
-    },
-    {
-      "ticker": "KMX",
-      "price": "61.05",
-      "dayChange": "+3.56%",
-      "ema20": "58.11",
-      "stopLoss": "56.78",
-      "dollarRisk": "4.27",
-      "volumeSpike": "1.5x",
-      "rawVolume": "2.61M",
-      "avgVolumeStr": "1.73M"
-    },
-    {
-      "ticker": "OGN",
-      "price": "13.74",
-      "dayChange": "+0.07%",
-      "ema20": "13.63",
-      "stopLoss": "12.78",
-      "dollarRisk": "0.96",
-      "volumeSpike": "1.5x",
-      "rawVolume": "4.05M",
-      "avgVolumeStr": "2.70M"
-    },
-    {
-      "ticker": "TALO",
-      "price": "17.75",
-      "dayChange": "+3.38%",
-      "ema20": "15.51",
-      "stopLoss": "16.51",
-      "dollarRisk": "1.24",
-      "volumeSpike": "1.5x",
-      "rawVolume": "2.59M",
-      "avgVolumeStr": "1.68M"
-    },
-    {
-      "ticker": "VIRT",
-      "price": "61.19",
-      "dayChange": "+2.02%",
-      "ema20": "58.84",
-      "stopLoss": "56.91",
-      "dollarRisk": "4.28",
-      "volumeSpike": "3.7x",
-      "rawVolume": "5.15M",
-      "avgVolumeStr": "1.38M"
+      "ticker": "TGTX",
+      "price": "54.27",
+      "dayChange": "+7.34%",
+      "ema20": "51.07",
+      "stopLoss": "50.47",
+      "dollarRisk": "3.80",
+      "volumeSpike": "3.2x",
+      "rawVolume": "5.38M",
+      "avgVolumeStr": "1.70M"
     }
   ]
 }
