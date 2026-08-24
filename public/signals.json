@@ -1,62 +1,95 @@
 {
-  "vix": "15.13",
+  "vix": "15.85",
   "isHostile": false,
-  "timestamp": "2026-08-21T22:54:11.385Z",
+  "timestamp": "2026-08-24T22:57:10.917Z",
   "signals": [
     {
-      "ticker": "BJ",
-      "price": "96.42",
-      "dayChange": "+5.61%",
-      "ema20": "93.99",
-      "stopLoss": "89.67",
-      "dollarRisk": "6.75",
-      "volumeSpike": "1.9x",
-      "rawVolume": "3.61M",
-      "avgVolumeStr": "1.90M"
-    },
-    {
-      "ticker": "CG",
-      "price": "49.37",
-      "dayChange": "+2.88%",
-      "ema20": "48.07",
-      "stopLoss": "45.91",
-      "dollarRisk": "3.46",
-      "volumeSpike": "1.9x",
-      "rawVolume": "8.17M",
-      "avgVolumeStr": "4.25M"
-    },
-    {
-      "ticker": "CNH",
-      "price": "11.87",
-      "dayChange": "+8.40%",
-      "ema20": "10.71",
-      "stopLoss": "11.04",
-      "dollarRisk": "0.83",
-      "volumeSpike": "1.6x",
-      "rawVolume": "23.94M",
-      "avgVolumeStr": "14.89M"
-    },
-    {
-      "ticker": "CVI",
-      "price": "39.51",
-      "dayChange": "+10.27%",
-      "ema20": "34.99",
-      "stopLoss": "36.74",
-      "dollarRisk": "2.77",
+      "ticker": "FIVE",
+      "price": "262.72",
+      "dayChange": "+4.99%",
+      "ema20": "233.60",
+      "stopLoss": "244.33",
+      "dollarRisk": "18.39",
       "volumeSpike": "2.3x",
-      "rawVolume": "1.77M",
-      "avgVolumeStr": "0.75M"
+      "rawVolume": "2.04M",
+      "avgVolumeStr": "0.88M"
     },
     {
-      "ticker": "TGTX",
-      "price": "54.27",
-      "dayChange": "+7.34%",
-      "ema20": "51.07",
-      "stopLoss": "50.47",
-      "dollarRisk": "3.80",
-      "volumeSpike": "3.2x",
-      "rawVolume": "5.38M",
-      "avgVolumeStr": "1.70M"
+      "ticker": "RGEN",
+      "price": "181.62",
+      "dayChange": "+0.27%",
+      "ema20": "164.33",
+      "stopLoss": "168.91",
+      "dollarRisk": "12.71",
+      "volumeSpike": "1.6x",
+      "rawVolume": "1.50M",
+      "avgVolumeStr": "0.97M"
+    },
+    {
+      "ticker": "BOX",
+      "price": "33.47",
+      "dayChange": "+1.70%",
+      "ema20": "32.20",
+      "stopLoss": "31.13",
+      "dollarRisk": "2.34",
+      "volumeSpike": "1.9x",
+      "rawVolume": "4.10M",
+      "avgVolumeStr": "2.17M"
+    },
+    {
+      "ticker": "ETSY",
+      "price": "87.03",
+      "dayChange": "+7.40%",
+      "ema20": "81.67",
+      "stopLoss": "80.94",
+      "dollarRisk": "6.09",
+      "volumeSpike": "1.6x",
+      "rawVolume": "4.50M",
+      "avgVolumeStr": "2.90M"
+    },
+    {
+      "ticker": "QTWO",
+      "price": "64.18",
+      "dayChange": "+0.42%",
+      "ema20": "62.09",
+      "stopLoss": "59.69",
+      "dollarRisk": "4.49",
+      "volumeSpike": "1.5x",
+      "rawVolume": "1.03M",
+      "avgVolumeStr": "0.67M"
+    },
+    {
+      "ticker": "RHI",
+      "price": "45.12",
+      "dayChange": "+0.83%",
+      "ema20": "41.99",
+      "stopLoss": "41.96",
+      "dollarRisk": "3.16",
+      "volumeSpike": "2.0x",
+      "rawVolume": "3.35M",
+      "avgVolumeStr": "1.65M"
+    },
+    {
+      "ticker": "SKY",
+      "price": "91.53",
+      "dayChange": "+1.42%",
+      "ema20": "89.72",
+      "stopLoss": "85.12",
+      "dollarRisk": "6.41",
+      "volumeSpike": "1.7x",
+      "rawVolume": "1.18M",
+      "avgVolumeStr": "0.68M"
+    },
+    {
+      "ticker": "WAY",
+      "price": "25.35",
+      "dayChange": "+1.36%",
+      "ema20": "24.10",
+      "stopLoss": "23.58",
+      "dollarRisk": "1.77",
+      "volumeSpike": "1.6x",
+      "rawVolume": "3.37M",
+      "avgVolumeStr": "2.10M"
     }
   ]
 }
