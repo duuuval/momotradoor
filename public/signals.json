@@ -1,17 +1,17 @@
 {
-  "vix": "14.53",
+  "vix": "15.30",
   "isHostile": false,
-  "timestamp": "2026-09-05T00:19:09.908Z",
+  "timestamp": "2026-09-08T00:39:03.683Z",
   "signals": [
     {
       "ticker": "DOCU",
       "price": "68.41",
-      "dayChange": "+4.62%",
-      "ema20": "61.79",
+      "dayChange": "+3.70%",
+      "ema20": "62.42",
       "stopLoss": "63.62",
       "dollarRisk": "4.79",
       "volumeSpike": "2.3x",
-      "rawVolume": "7.93M",
+      "rawVolume": "7.99M",
       "avgVolumeStr": "3.42M"
     },
     {
@@ -28,8 +28,8 @@
     {
       "ticker": "HZO",
       "price": "52.16",
-      "dayChange": "+0.10%",
-      "ema20": "49.61",
+      "dayChange": "0.00%",
+      "ema20": "49.85",
       "stopLoss": "48.51",
       "dollarRisk": "3.65",
       "volumeSpike": "2.0x",
@@ -39,8 +39,8 @@
     {
       "ticker": "ITGR",
       "price": "126.50",
-      "dayChange": "+0.95%",
-      "ema20": "122.90",
+      "dayChange": "+0.80%",
+      "ema20": "123.24",
       "stopLoss": "117.65",
       "dollarRisk": "8.85",
       "volumeSpike": "2.3x",
@@ -50,30 +50,30 @@
     {
       "ticker": "SFNC",
       "price": "23.69",
-      "dayChange": "+4.50%",
-      "ema20": "22.99",
+      "dayChange": "+3.09%",
+      "ema20": "23.06",
       "stopLoss": "22.03",
       "dollarRisk": "1.66",
       "volumeSpike": "2.4x",
-      "rawVolume": "2.30M",
+      "rawVolume": "2.34M",
       "avgVolumeStr": "0.96M"
     },
     {
       "ticker": "WSBC",
       "price": "41.33",
-      "dayChange": "+2.15%",
-      "ema20": "40.86",
+      "dayChange": "+0.05%",
+      "ema20": "40.90",
       "stopLoss": "38.44",
       "dollarRisk": "2.89",
       "volumeSpike": "4.9x",
-      "rawVolume": "3.11M",
+      "rawVolume": "3.12M",
       "avgVolumeStr": "0.64M"
     },
     {
       "ticker": "WWW",
       "price": "20.76",
-      "dayChange": "+7.68%",
-      "ema20": "19.76",
+      "dayChange": "+6.19%",
+      "ema20": "19.85",
       "stopLoss": "19.31",
       "dollarRisk": "1.45",
       "volumeSpike": "2.7x",
