@@ -1,18 +1,62 @@
 {
-  "vix": "15.30",
+  "vix": "15.72",
   "isHostile": false,
-  "timestamp": "2026-09-08T00:39:03.683Z",
+  "timestamp": "2026-09-09T00:30:31.357Z",
   "signals": [
     {
-      "ticker": "DOCU",
-      "price": "68.41",
-      "dayChange": "+3.70%",
-      "ema20": "62.42",
-      "stopLoss": "63.62",
-      "dollarRisk": "4.79",
-      "volumeSpike": "2.3x",
-      "rawVolume": "7.99M",
-      "avgVolumeStr": "3.42M"
+      "ticker": "AVTR",
+      "price": "15.25",
+      "dayChange": "+0.39%",
+      "ema20": "14.17",
+      "stopLoss": "14.18",
+      "dollarRisk": "1.07",
+      "volumeSpike": "1.9x",
+      "rawVolume": "12.50M",
+      "avgVolumeStr": "6.49M"
+    },
+    {
+      "ticker": "ROIV",
+      "price": "41.48",
+      "dayChange": "+20.55%",
+      "ema20": "35.42",
+      "stopLoss": "38.58",
+      "dollarRisk": "2.90",
+      "volumeSpike": "2.6x",
+      "rawVolume": "24.60M",
+      "avgVolumeStr": "9.32M"
+    },
+    {
+      "ticker": "CRGY",
+      "price": "14.19",
+      "dayChange": "+1.65%",
+      "ema20": "13.23",
+      "stopLoss": "13.20",
+      "dollarRisk": "0.99",
+      "volumeSpike": "1.6x",
+      "rawVolume": "7.44M",
+      "avgVolumeStr": "4.78M"
+    },
+    {
+      "ticker": "GKOS",
+      "price": "185.04",
+      "dayChange": "+2.60%",
+      "ema20": "178.67",
+      "stopLoss": "172.09",
+      "dollarRisk": "12.95",
+      "volumeSpike": "2.0x",
+      "rawVolume": "1.16M",
+      "avgVolumeStr": "0.57M"
+    },
+    {
+      "ticker": "GNW",
+      "price": "10.42",
+      "dayChange": "+0.39%",
+      "ema20": "10.01",
+      "stopLoss": "9.69",
+      "dollarRisk": "0.73",
+      "volumeSpike": "1.5x",
+      "rawVolume": "4.85M",
+      "avgVolumeStr": "3.19M"
     },
     {
       "ticker": "HLX",
@@ -26,59 +70,70 @@
       "avgVolumeStr": "1.38M"
     },
     {
+      "ticker": "HRMY",
+      "price": "42.07",
+      "dayChange": "+0.50%",
+      "ema20": "39.70",
+      "stopLoss": "39.13",
+      "dollarRisk": "2.94",
+      "volumeSpike": "2.5x",
+      "rawVolume": "1.76M",
+      "avgVolumeStr": "0.71M"
+    },
+    {
       "ticker": "HZO",
-      "price": "52.16",
-      "dayChange": "0.00%",
+      "price": "52.17",
+      "dayChange": "+0.02%",
       "ema20": "49.85",
-      "stopLoss": "48.51",
+      "stopLoss": "48.52",
       "dollarRisk": "3.65",
+      "volumeSpike": "1.7x",
+      "rawVolume": "1.16M",
+      "avgVolumeStr": "0.68M"
+    },
+    {
+      "ticker": "LXP",
+      "price": "60.77",
+      "dayChange": "+0.08%",
+      "ema20": "60.62",
+      "stopLoss": "56.52",
+      "dollarRisk": "4.25",
+      "volumeSpike": "1.8x",
+      "rawVolume": "1.20M",
+      "avgVolumeStr": "0.66M"
+    },
+    {
+      "ticker": "MGY",
+      "price": "27.42",
+      "dayChange": "+0.77%",
+      "ema20": "26.73",
+      "stopLoss": "25.50",
+      "dollarRisk": "1.92",
       "volumeSpike": "2.0x",
-      "rawVolume": "1.22M",
-      "avgVolumeStr": "0.60M"
+      "rawVolume": "5.88M",
+      "avgVolumeStr": "2.96M"
     },
     {
-      "ticker": "ITGR",
-      "price": "126.50",
-      "dayChange": "+0.80%",
-      "ema20": "123.24",
-      "stopLoss": "117.65",
-      "dollarRisk": "8.85",
-      "volumeSpike": "2.3x",
-      "rawVolume": "1.61M",
-      "avgVolumeStr": "0.70M"
+      "ticker": "NEOG",
+      "price": "11.88",
+      "dayChange": "+2.10%",
+      "ema20": "11.56",
+      "stopLoss": "11.05",
+      "dollarRisk": "0.83",
+      "volumeSpike": "1.8x",
+      "rawVolume": "2.80M",
+      "avgVolumeStr": "1.52M"
     },
     {
-      "ticker": "SFNC",
-      "price": "23.69",
-      "dayChange": "+3.09%",
-      "ema20": "23.06",
-      "stopLoss": "22.03",
-      "dollarRisk": "1.66",
-      "volumeSpike": "2.4x",
-      "rawVolume": "2.34M",
-      "avgVolumeStr": "0.96M"
-    },
-    {
-      "ticker": "WSBC",
-      "price": "41.33",
-      "dayChange": "+0.05%",
-      "ema20": "40.90",
-      "stopLoss": "38.44",
-      "dollarRisk": "2.89",
-      "volumeSpike": "4.9x",
-      "rawVolume": "3.12M",
-      "avgVolumeStr": "0.64M"
-    },
-    {
-      "ticker": "WWW",
-      "price": "20.76",
-      "dayChange": "+6.19%",
-      "ema20": "19.85",
-      "stopLoss": "19.31",
-      "dollarRisk": "1.45",
-      "volumeSpike": "2.7x",
-      "rawVolume": "1.72M",
-      "avgVolumeStr": "0.64M"
+      "ticker": "QRVO",
+      "price": "104.07",
+      "dayChange": "+3.68%",
+      "ema20": "96.78",
+      "stopLoss": "96.79",
+      "dollarRisk": "7.28",
+      "volumeSpike": "1.5x",
+      "rawVolume": "1.43M",
+      "avgVolumeStr": "0.93M"
     }
   ]
 }
