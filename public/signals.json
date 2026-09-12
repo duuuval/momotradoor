@@ -1,18 +1,51 @@
 {
-  "vix": "17.84",
+  "vix": "15.84",
   "isHostile": false,
-  "timestamp": "2026-09-11T00:23:58.134Z",
+  "timestamp": "2026-09-12T00:31:08.212Z",
   "signals": [
     {
-      "ticker": "BAH",
-      "price": "75.68",
-      "dayChange": "+4.95%",
-      "ema20": "73.99",
-      "stopLoss": "70.38",
-      "dollarRisk": "5.30",
-      "volumeSpike": "1.6x",
-      "rawVolume": "2.34M",
-      "avgVolumeStr": "1.45M"
+      "ticker": "AVT",
+      "price": "99.63",
+      "dayChange": "+8.60%",
+      "ema20": "91.09",
+      "stopLoss": "92.66",
+      "dollarRisk": "6.97",
+      "volumeSpike": "1.8x",
+      "rawVolume": "1.89M",
+      "avgVolumeStr": "1.06M"
+    },
+    {
+      "ticker": "REXR",
+      "price": "38.04",
+      "dayChange": "+2.62%",
+      "ema20": "37.01",
+      "stopLoss": "35.38",
+      "dollarRisk": "2.66",
+      "volumeSpike": "1.5x",
+      "rawVolume": "3.22M",
+      "avgVolumeStr": "2.12M"
+    },
+    {
+      "ticker": "SCI",
+      "price": "82.21",
+      "dayChange": "+3.16%",
+      "ema20": "82.12",
+      "stopLoss": "76.46",
+      "dollarRisk": "5.75",
+      "volumeSpike": "1.7x",
+      "rawVolume": "1.19M",
+      "avgVolumeStr": "0.71M"
+    },
+    {
+      "ticker": "VOYA",
+      "price": "103.41",
+      "dayChange": "+1.26%",
+      "ema20": "101.46",
+      "stopLoss": "96.17",
+      "dollarRisk": "7.24",
+      "volumeSpike": "1.5x",
+      "rawVolume": "1.43M",
+      "avgVolumeStr": "0.94M"
     },
     {
       "ticker": "HLX",
@@ -27,25 +60,47 @@
     },
     {
       "ticker": "INSP",
-      "price": "68.12",
-      "dayChange": "+9.62%",
-      "ema20": "61.09",
-      "stopLoss": "63.35",
-      "dollarRisk": "4.77",
-      "volumeSpike": "2.2x",
+      "price": "73.00",
+      "dayChange": "+9.81%",
+      "ema20": "61.76",
+      "stopLoss": "67.89",
+      "dollarRisk": "5.11",
+      "volumeSpike": "2.4x",
+      "rawVolume": "1.40M",
+      "avgVolumeStr": "0.59M"
+    },
+    {
+      "ticker": "LFST",
+      "price": "12.97",
+      "dayChange": "+2.77%",
+      "ema20": "12.39",
+      "stopLoss": "12.06",
+      "dollarRisk": "0.91",
+      "volumeSpike": "1.5x",
+      "rawVolume": "7.05M",
+      "avgVolumeStr": "4.56M"
+    },
+    {
+      "ticker": "OII",
+      "price": "51.09",
+      "dayChange": "+5.36%",
+      "ema20": "50.58",
+      "stopLoss": "47.51",
+      "dollarRisk": "3.58",
+      "volumeSpike": "1.5x",
       "rawVolume": "1.14M",
-      "avgVolumeStr": "0.51M"
+      "avgVolumeStr": "0.75M"
     },
     {
       "ticker": "QRVO",
-      "price": "112.36",
-      "dayChange": "+7.97%",
-      "ema20": "98.21",
-      "stopLoss": "104.49",
-      "dollarRisk": "7.87",
-      "volumeSpike": "2.2x",
-      "rawVolume": "2.25M",
-      "avgVolumeStr": "1.04M"
+      "price": "116.65",
+      "dayChange": "+10.84%",
+      "ema20": "99.56",
+      "stopLoss": "108.48",
+      "dollarRisk": "8.17",
+      "volumeSpike": "1.8x",
+      "rawVolume": "2.19M",
+      "avgVolumeStr": "1.20M"
     }
   ]
 }
