@@ -1,40 +1,40 @@
 {
-  "vix": "15.18",
+  "vix": "15.67",
   "isHostile": false,
-  "timestamp": "2026-09-24T00:45:22.342Z",
+  "timestamp": "2026-09-25T00:43:18.860Z",
   "signals": [
     {
-      "ticker": "SNX",
-      "price": "287.89",
-      "dayChange": "+8.16%",
-      "ema20": "261.40",
-      "stopLoss": "267.74",
-      "dollarRisk": "20.15",
-      "volumeSpike": "2.9x",
-      "rawVolume": "2.57M",
-      "avgVolumeStr": "0.88M"
+      "ticker": "RGEN",
+      "price": "190.65",
+      "dayChange": "+5.50%",
+      "ema20": "173.19",
+      "stopLoss": "177.30",
+      "dollarRisk": "13.35",
+      "volumeSpike": "1.7x",
+      "rawVolume": "1.57M",
+      "avgVolumeStr": "0.95M"
     },
     {
       "ticker": "TWLO",
-      "price": "290.70",
-      "dayChange": "+19.22%",
-      "ema20": "236.50",
-      "stopLoss": "270.35",
-      "dollarRisk": "20.35",
-      "volumeSpike": "2.0x",
-      "rawVolume": "4.15M",
-      "avgVolumeStr": "2.04M"
+      "price": "299.66",
+      "dayChange": "+12.63%",
+      "ema20": "241.66",
+      "stopLoss": "278.68",
+      "dollarRisk": "20.98",
+      "volumeSpike": "1.6x",
+      "rawVolume": "3.70M",
+      "avgVolumeStr": "2.28M"
     },
     {
-      "ticker": "RNG",
-      "price": "79.23",
-      "dayChange": "+10.26%",
-      "ema20": "70.56",
-      "stopLoss": "73.68",
-      "dollarRisk": "5.55",
-      "volumeSpike": "1.5x",
-      "rawVolume": "2.26M",
-      "avgVolumeStr": "1.49M"
+      "ticker": "PRGO",
+      "price": "14.68",
+      "dayChange": "+3.89%",
+      "ema20": "13.78",
+      "stopLoss": "13.65",
+      "dollarRisk": "1.03",
+      "volumeSpike": "3.1x",
+      "rawVolume": "7.73M",
+      "avgVolumeStr": "2.51M"
     }
   ]
 }
