@@ -1,40 +1,18 @@
 {
-  "vix": "15.67",
+  "vix": "14.87",
   "isHostile": false,
-  "timestamp": "2026-09-25T00:43:18.860Z",
+  "timestamp": "2026-09-26T00:49:08.858Z",
   "signals": [
     {
-      "ticker": "RGEN",
-      "price": "190.65",
-      "dayChange": "+5.50%",
-      "ema20": "173.19",
-      "stopLoss": "177.30",
-      "dollarRisk": "13.35",
-      "volumeSpike": "1.7x",
-      "rawVolume": "1.57M",
-      "avgVolumeStr": "0.95M"
-    },
-    {
-      "ticker": "TWLO",
-      "price": "299.66",
-      "dayChange": "+12.63%",
-      "ema20": "241.66",
-      "stopLoss": "278.68",
-      "dollarRisk": "20.98",
-      "volumeSpike": "1.6x",
-      "rawVolume": "3.70M",
-      "avgVolumeStr": "2.28M"
-    },
-    {
-      "ticker": "PRGO",
-      "price": "14.68",
-      "dayChange": "+3.89%",
-      "ema20": "13.78",
-      "stopLoss": "13.65",
-      "dollarRisk": "1.03",
-      "volumeSpike": "3.1x",
-      "rawVolume": "7.73M",
-      "avgVolumeStr": "2.51M"
+      "ticker": "PEB",
+      "price": "18.42",
+      "dayChange": "+1.10%",
+      "ema20": "18.16",
+      "stopLoss": "17.13",
+      "dollarRisk": "1.29",
+      "volumeSpike": "2.0x",
+      "rawVolume": "4.15M",
+      "avgVolumeStr": "2.11M"
     }
   ]
 }
