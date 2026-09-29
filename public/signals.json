@@ -1,18 +1,51 @@
 {
-  "vix": "14.87",
+  "vix": "16.07",
   "isHostile": false,
-  "timestamp": "2026-09-26T00:49:08.858Z",
+  "timestamp": "2026-09-29T02:13:06.712Z",
   "signals": [
     {
-      "ticker": "PEB",
-      "price": "18.42",
-      "dayChange": "+1.10%",
-      "ema20": "18.16",
-      "stopLoss": "17.13",
-      "dollarRisk": "1.29",
-      "volumeSpike": "2.0x",
-      "rawVolume": "4.15M",
-      "avgVolumeStr": "2.11M"
+      "ticker": "GAP",
+      "price": "22.95",
+      "dayChange": "+5.18%",
+      "ema20": "21.40",
+      "stopLoss": "21.34",
+      "dollarRisk": "1.61",
+      "volumeSpike": "1.7x",
+      "rawVolume": "10.39M",
+      "avgVolumeStr": "5.97M"
+    },
+    {
+      "ticker": "PK",
+      "price": "15.72",
+      "dayChange": "+1.88%",
+      "ema20": "15.27",
+      "stopLoss": "14.62",
+      "dollarRisk": "1.10",
+      "volumeSpike": "1.6x",
+      "rawVolume": "4.94M",
+      "avgVolumeStr": "3.18M"
+    },
+    {
+      "ticker": "ITGR",
+      "price": "126.38",
+      "dayChange": "+0.03%",
+      "ema20": "125.58",
+      "stopLoss": "117.53",
+      "dollarRisk": "8.85",
+      "volumeSpike": "2.2x",
+      "rawVolume": "1.53M",
+      "avgVolumeStr": "0.70M"
+    },
+    {
+      "ticker": "LXP",
+      "price": "60.91",
+      "dayChange": "+0.05%",
+      "ema20": "60.81",
+      "stopLoss": "56.65",
+      "dollarRisk": "4.26",
+      "volumeSpike": "1.5x",
+      "rawVolume": "1.21M",
+      "avgVolumeStr": "0.80M"
     }
   ]
 }
