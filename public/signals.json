@@ -1,51 +1,40 @@
 {
-  "vix": "16.07",
+  "vix": "16.04",
   "isHostile": false,
-  "timestamp": "2026-09-29T02:13:06.712Z",
+  "timestamp": "2026-09-30T01:28:00.088Z",
   "signals": [
     {
-      "ticker": "GAP",
-      "price": "22.95",
-      "dayChange": "+5.18%",
-      "ema20": "21.40",
-      "stopLoss": "21.34",
-      "dollarRisk": "1.61",
-      "volumeSpike": "1.7x",
-      "rawVolume": "10.39M",
-      "avgVolumeStr": "5.97M"
-    },
-    {
-      "ticker": "PK",
-      "price": "15.72",
-      "dayChange": "+1.88%",
-      "ema20": "15.27",
-      "stopLoss": "14.62",
-      "dollarRisk": "1.10",
+      "ticker": "CAKE",
+      "price": "107.35",
+      "dayChange": "+2.08%",
+      "ema20": "103.83",
+      "stopLoss": "99.84",
+      "dollarRisk": "7.51",
       "volumeSpike": "1.6x",
-      "rawVolume": "4.94M",
-      "avgVolumeStr": "3.18M"
+      "rawVolume": "2.32M",
+      "avgVolumeStr": "1.46M"
     },
     {
-      "ticker": "ITGR",
-      "price": "126.38",
-      "dayChange": "+0.03%",
-      "ema20": "125.58",
-      "stopLoss": "117.53",
-      "dollarRisk": "8.85",
-      "volumeSpike": "2.2x",
-      "rawVolume": "1.53M",
-      "avgVolumeStr": "0.70M"
+      "ticker": "DV",
+      "price": "13.40",
+      "dayChange": "0.00%",
+      "ema20": "13.35",
+      "stopLoss": "12.46",
+      "dollarRisk": "0.94",
+      "volumeSpike": "1.8x",
+      "rawVolume": "4.75M",
+      "avgVolumeStr": "2.69M"
     },
     {
-      "ticker": "LXP",
-      "price": "60.91",
-      "dayChange": "+0.05%",
-      "ema20": "60.81",
-      "stopLoss": "56.65",
-      "dollarRisk": "4.26",
-      "volumeSpike": "1.5x",
-      "rawVolume": "1.21M",
-      "avgVolumeStr": "0.80M"
+      "ticker": "KMX",
+      "price": "59.23",
+      "dayChange": "+4.74%",
+      "ema20": "58.78",
+      "stopLoss": "55.08",
+      "dollarRisk": "4.15",
+      "volumeSpike": "3.7x",
+      "rawVolume": "12.23M",
+      "avgVolumeStr": "3.31M"
     }
   ]
 }
