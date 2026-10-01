@@ -1,40 +1,84 @@
 {
-  "vix": "16.04",
+  "vix": "16.34",
   "isHostile": false,
-  "timestamp": "2026-09-30T01:28:00.088Z",
+  "timestamp": "2026-10-01T01:28:44.858Z",
   "signals": [
     {
-      "ticker": "CAKE",
-      "price": "107.35",
-      "dayChange": "+2.08%",
-      "ema20": "103.83",
-      "stopLoss": "99.84",
-      "dollarRisk": "7.51",
+      "ticker": "CVLT",
+      "price": "149.92",
+      "dayChange": "+1.24%",
+      "ema20": "142.94",
+      "stopLoss": "139.43",
+      "dollarRisk": "10.49",
+      "volumeSpike": "1.9x",
+      "rawVolume": "1.11M",
+      "avgVolumeStr": "0.60M"
+    },
+    {
+      "ticker": "DOCS",
+      "price": "28.34",
+      "dayChange": "+8.17%",
+      "ema20": "26.00",
+      "stopLoss": "26.36",
+      "dollarRisk": "1.98",
       "volumeSpike": "1.6x",
-      "rawVolume": "2.32M",
-      "avgVolumeStr": "1.46M"
+      "rawVolume": "4.93M",
+      "avgVolumeStr": "3.00M"
     },
     {
-      "ticker": "DV",
-      "price": "13.40",
-      "dayChange": "0.00%",
-      "ema20": "13.35",
-      "stopLoss": "12.46",
-      "dollarRisk": "0.94",
+      "ticker": "AMN",
+      "price": "35.87",
+      "dayChange": "+4.70%",
+      "ema20": "34.28",
+      "stopLoss": "33.36",
+      "dollarRisk": "2.51",
       "volumeSpike": "1.8x",
-      "rawVolume": "4.75M",
-      "avgVolumeStr": "2.69M"
+      "rawVolume": "1.04M",
+      "avgVolumeStr": "0.58M"
     },
     {
-      "ticker": "KMX",
-      "price": "59.23",
-      "dayChange": "+4.74%",
-      "ema20": "58.78",
-      "stopLoss": "55.08",
-      "dollarRisk": "4.15",
-      "volumeSpike": "3.7x",
-      "rawVolume": "12.23M",
-      "avgVolumeStr": "3.31M"
+      "ticker": "CHEF",
+      "price": "112.17",
+      "dayChange": "+0.37%",
+      "ema20": "110.44",
+      "stopLoss": "104.32",
+      "dollarRisk": "7.85",
+      "volumeSpike": "1.9x",
+      "rawVolume": "1.10M",
+      "avgVolumeStr": "0.56M"
+    },
+    {
+      "ticker": "FORM",
+      "price": "149.31",
+      "dayChange": "+14.00%",
+      "ema20": "119.59",
+      "stopLoss": "138.86",
+      "dollarRisk": "10.45",
+      "volumeSpike": "1.8x",
+      "rawVolume": "2.20M",
+      "avgVolumeStr": "1.23M"
+    },
+    {
+      "ticker": "LAUR",
+      "price": "38.16",
+      "dayChange": "+1.44%",
+      "ema20": "36.99",
+      "stopLoss": "35.49",
+      "dollarRisk": "2.67",
+      "volumeSpike": "1.8x",
+      "rawVolume": "1.84M",
+      "avgVolumeStr": "1.02M"
+    },
+    {
+      "ticker": "LXP",
+      "price": "60.92",
+      "dayChange": "+0.02%",
+      "ema20": "60.82",
+      "stopLoss": "56.66",
+      "dollarRisk": "4.26",
+      "volumeSpike": "1.7x",
+      "rawVolume": "1.44M",
+      "avgVolumeStr": "0.87M"
     }
   ]
 }
