@@ -1,62 +1,29 @@
 {
-  "vix": "16.39",
+  "vix": "15.31",
   "isHostile": false,
-  "timestamp": "2026-10-02T01:49:38.960Z",
+  "timestamp": "2026-10-03T01:21:05.800Z",
   "signals": [
     {
-      "ticker": "BJ",
-      "price": "94.36",
-      "dayChange": "+2.57%",
-      "ema20": "93.07",
-      "stopLoss": "87.75",
-      "dollarRisk": "6.61",
-      "volumeSpike": "1.9x",
-      "rawVolume": "3.64M",
-      "avgVolumeStr": "1.88M"
+      "ticker": "AZTA",
+      "price": "38.75",
+      "dayChange": "+11.06%",
+      "ema20": "33.47",
+      "stopLoss": "36.04",
+      "dollarRisk": "2.71",
+      "volumeSpike": "3.7x",
+      "rawVolume": "3.36M",
+      "avgVolumeStr": "0.92M"
     },
     {
-      "ticker": "MSM",
-      "price": "128.50",
-      "dayChange": "+3.86%",
-      "ema20": "122.29",
-      "stopLoss": "119.51",
-      "dollarRisk": "8.99",
+      "ticker": "RAL",
+      "price": "73.20",
+      "dayChange": "+5.83%",
+      "ema20": "68.17",
+      "stopLoss": "68.08",
+      "dollarRisk": "5.12",
       "volumeSpike": "1.5x",
-      "rawVolume": "1.25M",
-      "avgVolumeStr": "0.81M"
-    },
-    {
-      "ticker": "EFOR",
-      "price": "36.19",
-      "dayChange": "+10.00%",
-      "ema20": "32.72",
-      "stopLoss": "33.66",
-      "dollarRisk": "2.53",
-      "volumeSpike": "1.9x",
-      "rawVolume": "1.24M",
-      "avgVolumeStr": "0.66M"
-    },
-    {
-      "ticker": "GO",
-      "price": "11.77",
-      "dayChange": "+4.62%",
-      "ema20": "11.35",
-      "stopLoss": "10.95",
-      "dollarRisk": "0.82",
-      "volumeSpike": "2.2x",
-      "rawVolume": "4.51M",
-      "avgVolumeStr": "2.07M"
-    },
-    {
-      "ticker": "INSP",
-      "price": "70.78",
-      "dayChange": "+2.05%",
-      "ema20": "69.41",
-      "stopLoss": "65.83",
-      "dollarRisk": "4.95",
-      "volumeSpike": "2.2x",
-      "rawVolume": "2.02M",
-      "avgVolumeStr": "0.91M"
+      "rawVolume": "1.80M",
+      "avgVolumeStr": "1.17M"
     }
   ]
 }
