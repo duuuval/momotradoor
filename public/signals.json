@@ -1,51 +1,62 @@
 {
-  "vix": "15.01",
+  "vix": "15.08",
   "isHostile": false,
-  "timestamp": "2026-10-07T01:47:39.783Z",
+  "timestamp": "2026-10-08T02:15:05.825Z",
   "signals": [
     {
-      "ticker": "NVT",
-      "price": "173.80",
-      "dayChange": "+3.97%",
-      "ema20": "162.02",
-      "stopLoss": "161.63",
-      "dollarRisk": "12.17",
-      "volumeSpike": "1.6x",
-      "rawVolume": "2.57M",
-      "avgVolumeStr": "1.64M"
+      "ticker": "MSM",
+      "price": "130.38",
+      "dayChange": "+0.05%",
+      "ema20": "124.92",
+      "stopLoss": "121.25",
+      "dollarRisk": "9.13",
+      "volumeSpike": "1.8x",
+      "rawVolume": "1.37M",
+      "avgVolumeStr": "0.77M"
     },
     {
       "ticker": "OPCH",
-      "price": "31.00",
-      "dayChange": "+32.65%",
-      "ema20": "24.03",
-      "stopLoss": "28.83",
+      "price": "31.01",
+      "dayChange": "+0.03%",
+      "ema20": "24.69",
+      "stopLoss": "28.84",
       "dollarRisk": "2.17",
-      "volumeSpike": "38.2x",
-      "rawVolume": "65.08M",
-      "avgVolumeStr": "1.70M"
+      "volumeSpike": "2.4x",
+      "rawVolume": "19.35M",
+      "avgVolumeStr": "8.00M"
     },
     {
-      "ticker": "DXC",
-      "price": "11.83",
-      "dayChange": "+1.46%",
-      "ema20": "11.15",
-      "stopLoss": "11.00",
-      "dollarRisk": "0.83",
+      "ticker": "UNM",
+      "price": "93.20",
+      "dayChange": "+1.49%",
+      "ema20": "91.54",
+      "stopLoss": "86.68",
+      "dollarRisk": "6.52",
       "volumeSpike": "1.6x",
-      "rawVolume": "4.85M",
-      "avgVolumeStr": "2.97M"
+      "rawVolume": "2.57M",
+      "avgVolumeStr": "1.57M"
     },
     {
       "ticker": "PENG",
-      "price": "64.21",
-      "dayChange": "+5.77%",
-      "ema20": "55.70",
-      "stopLoss": "59.72",
-      "dollarRisk": "4.49",
-      "volumeSpike": "8.7x",
-      "rawVolume": "15.41M",
-      "avgVolumeStr": "1.78M"
+      "price": "72.61",
+      "dayChange": "+13.08%",
+      "ema20": "57.31",
+      "stopLoss": "67.53",
+      "dollarRisk": "5.08",
+      "volumeSpike": "6.6x",
+      "rawVolume": "20.99M",
+      "avgVolumeStr": "3.18M"
+    },
+    {
+      "ticker": "VSTS",
+      "price": "13.94",
+      "dayChange": "+0.14%",
+      "ema20": "13.68",
+      "stopLoss": "12.96",
+      "dollarRisk": "0.98",
+      "volumeSpike": "1.9x",
+      "rawVolume": "2.53M",
+      "avgVolumeStr": "1.34M"
     }
   ]
 }
