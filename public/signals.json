@@ -1,106 +1,51 @@
 {
-  "vix": "15.41",
+  "vix": "14.84",
   "isHostile": false,
-  "timestamp": "2026-10-09T02:27:43.847Z",
+  "timestamp": "2026-10-10T01:55:19.754Z",
   "signals": [
     {
-      "ticker": "AVTR",
-      "price": "15.39",
-      "dayChange": "+0.26%",
-      "ema20": "15.19",
-      "stopLoss": "14.31",
-      "dollarRisk": "1.08",
+      "ticker": "CLF",
+      "price": "12.98",
+      "dayChange": "+6.48%",
+      "ema20": "12.02",
+      "stopLoss": "12.07",
+      "dollarRisk": "0.91",
       "volumeSpike": "1.5x",
-      "rawVolume": "12.13M",
-      "avgVolumeStr": "8.03M"
+      "rawVolume": "24.78M",
+      "avgVolumeStr": "16.32M"
     },
     {
       "ticker": "DOCS",
-      "price": "29.38",
-      "dayChange": "+6.10%",
-      "ema20": "27.18",
-      "stopLoss": "27.32",
-      "dollarRisk": "2.06",
-      "volumeSpike": "1.8x",
-      "rawVolume": "5.20M",
-      "avgVolumeStr": "2.96M"
-    },
-    {
-      "ticker": "DT",
-      "price": "61.12",
-      "dayChange": "+2.19%",
-      "ema20": "57.56",
-      "stopLoss": "56.84",
-      "dollarRisk": "4.28",
+      "price": "30.50",
+      "dayChange": "+3.81%",
+      "ema20": "27.50",
+      "stopLoss": "28.37",
+      "dollarRisk": "2.13",
       "volumeSpike": "1.5x",
-      "rawVolume": "8.78M",
-      "avgVolumeStr": "5.80M"
+      "rawVolume": "4.94M",
+      "avgVolumeStr": "3.23M"
     },
     {
-      "ticker": "DXC",
-      "price": "12.37",
-      "dayChange": "+2.91%",
-      "ema20": "11.34",
-      "stopLoss": "11.50",
-      "dollarRisk": "0.87",
-      "volumeSpike": "2.3x",
-      "rawVolume": "8.11M",
-      "avgVolumeStr": "3.47M"
-    },
-    {
-      "ticker": "ITGR",
-      "price": "126.65",
-      "dayChange": "+0.05%",
-      "ema20": "126.08",
-      "stopLoss": "117.78",
-      "dollarRisk": "8.87",
-      "volumeSpike": "1.5x",
-      "rawVolume": "1.14M",
-      "avgVolumeStr": "0.75M"
-    },
-    {
-      "ticker": "PCRX",
-      "price": "36.39",
-      "dayChange": "+44.40%",
-      "ema20": "26.17",
-      "stopLoss": "33.84",
-      "dollarRisk": "2.55",
-      "volumeSpike": "50.2x",
-      "rawVolume": "28.90M",
-      "avgVolumeStr": "0.58M"
-    },
-    {
-      "ticker": "RXO",
-      "price": "28.93",
-      "dayChange": "+2.01%",
-      "ema20": "23.30",
-      "stopLoss": "26.90",
-      "dollarRisk": "2.03",
+      "ticker": "OGN",
+      "price": "13.81",
+      "dayChange": "+0.44%",
+      "ema20": "13.73",
+      "stopLoss": "12.84",
+      "dollarRisk": "0.97",
       "volumeSpike": "1.6x",
-      "rawVolume": "7.42M",
-      "avgVolumeStr": "4.72M"
+      "rawVolume": "3.26M",
+      "avgVolumeStr": "2.02M"
     },
     {
-      "ticker": "TALO",
-      "price": "16.95",
-      "dayChange": "+1.74%",
-      "ema20": "16.76",
-      "stopLoss": "15.76",
-      "dollarRisk": "1.19",
-      "volumeSpike": "2.4x",
-      "rawVolume": "4.51M",
-      "avgVolumeStr": "1.88M"
-    },
-    {
-      "ticker": "TDC",
-      "price": "30.29",
-      "dayChange": "+3.88%",
-      "ema20": "29.27",
-      "stopLoss": "28.17",
-      "dollarRisk": "2.12",
-      "volumeSpike": "2.5x",
-      "rawVolume": "3.91M",
-      "avgVolumeStr": "1.55M"
+      "ticker": "PRGO",
+      "price": "15.06",
+      "dayChange": "+3.86%",
+      "ema20": "14.37",
+      "stopLoss": "14.01",
+      "dollarRisk": "1.05",
+      "volumeSpike": "1.7x",
+      "rawVolume": "4.36M",
+      "avgVolumeStr": "2.58M"
     }
   ]
 }
