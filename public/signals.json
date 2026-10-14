@@ -1,29 +1,40 @@
 {
-  "vix": "15.21",
+  "vix": "15.27",
   "isHostile": false,
-  "timestamp": "2026-10-13T03:10:25.054Z",
+  "timestamp": "2026-10-14T01:23:43.600Z",
   "signals": [
     {
-      "ticker": "ANF",
-      "price": "145.91",
-      "dayChange": "+2.34%",
-      "ema20": "138.41",
-      "stopLoss": "135.70",
-      "dollarRisk": "10.21",
-      "volumeSpike": "1.5x",
-      "rawVolume": "1.71M",
-      "avgVolumeStr": "1.13M"
+      "ticker": "MUR",
+      "price": "39.04",
+      "dayChange": "+0.93%",
+      "ema20": "37.67",
+      "stopLoss": "36.31",
+      "dollarRisk": "2.73",
+      "volumeSpike": "2.0x",
+      "rawVolume": "2.88M",
+      "avgVolumeStr": "1.45M"
+    },
+    {
+      "ticker": "CBRL",
+      "price": "61.25",
+      "dayChange": "+6.60%",
+      "ema20": "53.79",
+      "stopLoss": "56.96",
+      "dollarRisk": "4.29",
+      "volumeSpike": "1.6x",
+      "rawVolume": "1.29M",
+      "avgVolumeStr": "0.83M"
     },
     {
       "ticker": "TALO",
-      "price": "17.34",
-      "dayChange": "+3.21%",
+      "price": "17.56",
+      "dayChange": "+4.52%",
       "ema20": "16.82",
-      "stopLoss": "16.13",
-      "dollarRisk": "1.21",
+      "stopLoss": "16.33",
+      "dollarRisk": "1.23",
       "volumeSpike": "2.6x",
-      "rawVolume": "6.16M",
-      "avgVolumeStr": "2.40M"
+      "rawVolume": "7.25M",
+      "avgVolumeStr": "2.80M"
     }
   ]
 }
