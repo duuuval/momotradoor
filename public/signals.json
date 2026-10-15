@@ -1,40 +1,84 @@
 {
-  "vix": "15.27",
+  "vix": "16.87",
   "isHostile": false,
-  "timestamp": "2026-10-14T01:23:43.600Z",
+  "timestamp": "2026-10-15T00:46:33.311Z",
   "signals": [
     {
+      "ticker": "HALO",
+      "price": "116.82",
+      "dayChange": "+6.57%",
+      "ema20": "110.56",
+      "stopLoss": "108.64",
+      "dollarRisk": "8.18",
+      "volumeSpike": "1.7x",
+      "rawVolume": "3.77M",
+      "avgVolumeStr": "2.20M"
+    },
+    {
       "ticker": "MUR",
-      "price": "39.04",
-      "dayChange": "+0.93%",
-      "ema20": "37.67",
-      "stopLoss": "36.31",
-      "dollarRisk": "2.73",
-      "volumeSpike": "2.0x",
-      "rawVolume": "2.88M",
-      "avgVolumeStr": "1.45M"
+      "price": "39.31",
+      "dayChange": "+0.69%",
+      "ema20": "37.94",
+      "stopLoss": "36.56",
+      "dollarRisk": "2.75",
+      "volumeSpike": "1.9x",
+      "rawVolume": "2.98M",
+      "avgVolumeStr": "1.57M"
     },
     {
-      "ticker": "CBRL",
-      "price": "61.25",
-      "dayChange": "+6.60%",
-      "ema20": "53.79",
-      "stopLoss": "56.96",
-      "dollarRisk": "4.29",
+      "ticker": "VFC",
+      "price": "16.48",
+      "dayChange": "+2.55%",
+      "ema20": "14.63",
+      "stopLoss": "15.33",
+      "dollarRisk": "1.15",
+      "volumeSpike": "1.7x",
+      "rawVolume": "18.95M",
+      "avgVolumeStr": "10.91M"
+    },
+    {
+      "ticker": "FTRE",
+      "price": "21.34",
+      "dayChange": "+1.62%",
+      "ema20": "20.10",
+      "stopLoss": "19.85",
+      "dollarRisk": "1.49",
+      "volumeSpike": "1.8x",
+      "rawVolume": "2.94M",
+      "avgVolumeStr": "1.67M"
+    },
+    {
+      "ticker": "MD",
+      "price": "27.06",
+      "dayChange": "+1.69%",
+      "ema20": "26.34",
+      "stopLoss": "25.17",
+      "dollarRisk": "1.89",
       "volumeSpike": "1.6x",
-      "rawVolume": "1.29M",
-      "avgVolumeStr": "0.83M"
+      "rawVolume": "1.16M",
+      "avgVolumeStr": "0.74M"
     },
     {
-      "ticker": "TALO",
-      "price": "17.56",
-      "dayChange": "+4.52%",
-      "ema20": "16.82",
-      "stopLoss": "16.33",
-      "dollarRisk": "1.23",
-      "volumeSpike": "2.6x",
-      "rawVolume": "7.25M",
-      "avgVolumeStr": "2.80M"
+      "ticker": "PRGO",
+      "price": "15.95",
+      "dayChange": "+3.77%",
+      "ema20": "14.69",
+      "stopLoss": "14.83",
+      "dollarRisk": "1.12",
+      "volumeSpike": "1.9x",
+      "rawVolume": "4.64M",
+      "avgVolumeStr": "2.41M"
+    },
+    {
+      "ticker": "WAY",
+      "price": "26.87",
+      "dayChange": "+0.83%",
+      "ema20": "25.78",
+      "stopLoss": "24.99",
+      "dollarRisk": "1.88",
+      "volumeSpike": "1.9x",
+      "rawVolume": "3.73M",
+      "avgVolumeStr": "1.92M"
     }
   ]
 }
