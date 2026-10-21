@@ -1,84 +1,73 @@
 {
-  "vix": "18.44",
+  "vix": "17.31",
   "isHostile": false,
-  "timestamp": "2026-10-20T01:13:06.461Z",
+  "timestamp": "2026-10-21T00:48:26.284Z",
   "signals": [
     {
       "ticker": "CLF",
-      "price": "14.10",
-      "dayChange": "+16.05%",
-      "ema20": "12.20",
-      "stopLoss": "13.11",
-      "dollarRisk": "0.99",
-      "volumeSpike": "4.5x",
-      "rawVolume": "88.33M",
-      "avgVolumeStr": "19.48M"
+      "price": "13.65",
+      "dayChange": "+12.62%",
+      "ema20": "12.38",
+      "stopLoss": "12.69",
+      "dollarRisk": "0.96",
+      "volumeSpike": "1.7x",
+      "rawVolume": "43.43M",
+      "avgVolumeStr": "25.78M"
     },
     {
-      "ticker": "AMN",
-      "price": "40.50",
-      "dayChange": "+1.25%",
-      "ema20": "36.59",
-      "stopLoss": "37.66",
-      "dollarRisk": "2.84",
-      "volumeSpike": "2.0x",
-      "rawVolume": "1.60M",
-      "avgVolumeStr": "0.81M"
+      "ticker": "PEGA",
+      "price": "36.23",
+      "dayChange": "+4.89%",
+      "ema20": "34.78",
+      "stopLoss": "33.69",
+      "dollarRisk": "2.54",
+      "volumeSpike": "3.4x",
+      "rawVolume": "8.78M",
+      "avgVolumeStr": "2.59M"
+    },
+    {
+      "ticker": "APLE",
+      "price": "17.82",
+      "dayChange": "+4.52%",
+      "ema20": "16.41",
+      "stopLoss": "16.57",
+      "dollarRisk": "1.25",
+      "volumeSpike": "1.5x",
+      "rawVolume": "3.42M",
+      "avgVolumeStr": "2.26M"
     },
     {
       "ticker": "BOX",
-      "price": "40.46",
-      "dayChange": "+2.48%",
-      "ema20": "36.00",
-      "stopLoss": "37.63",
-      "dollarRisk": "2.83",
-      "volumeSpike": "1.9x",
-      "rawVolume": "4.02M",
-      "avgVolumeStr": "2.15M"
+      "price": "41.75",
+      "dayChange": "+5.54%",
+      "ema20": "36.43",
+      "stopLoss": "38.83",
+      "dollarRisk": "2.92",
+      "volumeSpike": "1.8x",
+      "rawVolume": "4.08M",
+      "avgVolumeStr": "2.27M"
     },
     {
-      "ticker": "DNOW",
-      "price": "16.21",
-      "dayChange": "+7.92%",
-      "ema20": "15.54",
-      "stopLoss": "15.08",
-      "dollarRisk": "1.13",
-      "volumeSpike": "1.5x",
-      "rawVolume": "3.71M",
-      "avgVolumeStr": "2.47M"
-    },
-    {
-      "ticker": "DXC",
-      "price": "14.26",
-      "dayChange": "+3.41%",
-      "ema20": "12.12",
-      "stopLoss": "13.26",
-      "dollarRisk": "1.00",
-      "volumeSpike": "3.2x",
-      "rawVolume": "16.66M",
-      "avgVolumeStr": "5.13M"
+      "ticker": "CNK",
+      "price": "40.15",
+      "dayChange": "+4.34%",
+      "ema20": "37.18",
+      "stopLoss": "37.34",
+      "dollarRisk": "2.81",
+      "volumeSpike": "1.7x",
+      "rawVolume": "2.87M",
+      "avgVolumeStr": "1.65M"
     },
     {
       "ticker": "RAMP",
-      "price": "38.21",
-      "dayChange": "+1.76%",
-      "ema20": "37.60",
-      "stopLoss": "35.54",
+      "price": "38.20",
+      "dayChange": "+2.03%",
+      "ema20": "37.66",
+      "stopLoss": "35.53",
       "dollarRisk": "2.67",
-      "volumeSpike": "6.5x",
-      "rawVolume": "6.61M",
-      "avgVolumeStr": "1.01M"
-    },
-    {
-      "ticker": "SHO",
-      "price": "11.99",
-      "dayChange": "+1.01%",
-      "ema20": "11.40",
-      "stopLoss": "11.15",
-      "dollarRisk": "0.84",
-      "volumeSpike": "1.9x",
-      "rawVolume": "5.38M",
-      "avgVolumeStr": "2.80M"
+      "volumeSpike": "2.0x",
+      "rawVolume": "3.12M",
+      "avgVolumeStr": "1.58M"
     }
   ]
 }
