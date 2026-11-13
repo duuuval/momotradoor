@@ -1,51 +1,40 @@
 {
-  "vix": "17.49",
+  "vix": "18.70",
   "isHostile": false,
-  "timestamp": "2026-11-12T03:16:43.950Z",
+  "timestamp": "2026-11-13T02:49:32.736Z",
   "signals": [
     {
-      "ticker": "NWE",
-      "price": "84.97",
-      "dayChange": "+0.06%",
-      "ema20": "79.82",
-      "stopLoss": "79.02",
-      "dollarRisk": "5.95",
-      "volumeSpike": "1.7x",
-      "rawVolume": "1.38M",
-      "avgVolumeStr": "0.81M"
+      "ticker": "TTEK",
+      "price": "39.43",
+      "dayChange": "+4.84%",
+      "ema20": "38.25",
+      "stopLoss": "36.67",
+      "dollarRisk": "2.76",
+      "volumeSpike": "1.9x",
+      "rawVolume": "6.75M",
+      "avgVolumeStr": "3.55M"
     },
     {
-      "ticker": "AZTA",
-      "price": "48.90",
-      "dayChange": "+20.80%",
-      "ema20": "39.16",
-      "stopLoss": "45.48",
-      "dollarRisk": "3.42",
+      "ticker": "EYE",
+      "price": "18.57",
+      "dayChange": "+2.65%",
+      "ema20": "17.72",
+      "stopLoss": "17.27",
+      "dollarRisk": "1.30",
       "volumeSpike": "2.8x",
-      "rawVolume": "2.49M",
-      "avgVolumeStr": "0.88M"
+      "rawVolume": "6.46M",
+      "avgVolumeStr": "2.32M"
     },
     {
-      "ticker": "REZI",
-      "price": "23.00",
-      "dayChange": "+18.25%",
-      "ema20": "19.19",
-      "stopLoss": "21.39",
-      "dollarRisk": "1.61",
-      "volumeSpike": "4.9x",
-      "rawVolume": "7.49M",
-      "avgVolumeStr": "1.53M"
-    },
-    {
-      "ticker": "SONO",
-      "price": "19.06",
-      "dayChange": "+12.85%",
-      "ema20": "17.11",
-      "stopLoss": "17.73",
-      "dollarRisk": "1.33",
-      "volumeSpike": "4.2x",
-      "rawVolume": "6.10M",
-      "avgVolumeStr": "1.44M"
+      "ticker": "MBGL",
+      "price": "23.13",
+      "dayChange": "+16.11%",
+      "ema20": "19.60",
+      "stopLoss": "21.51",
+      "dollarRisk": "1.62",
+      "volumeSpike": "1.7x",
+      "rawVolume": "7.29M",
+      "avgVolumeStr": "4.29M"
     }
   ]
 }
