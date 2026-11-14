@@ -1,40 +1,117 @@
 {
-  "vix": "18.70",
+  "vix": "19.30",
   "isHostile": false,
-  "timestamp": "2026-11-13T02:49:32.736Z",
+  "timestamp": "2026-11-14T02:38:43.295Z",
   "signals": [
     {
-      "ticker": "TTEK",
-      "price": "39.43",
-      "dayChange": "+4.84%",
-      "ema20": "38.25",
-      "stopLoss": "36.67",
-      "dollarRisk": "2.76",
-      "volumeSpike": "1.9x",
-      "rawVolume": "6.75M",
-      "avgVolumeStr": "3.55M"
-    },
-    {
-      "ticker": "EYE",
-      "price": "18.57",
-      "dayChange": "+2.65%",
-      "ema20": "17.72",
-      "stopLoss": "17.27",
-      "dollarRisk": "1.30",
-      "volumeSpike": "2.8x",
-      "rawVolume": "6.46M",
-      "avgVolumeStr": "2.32M"
-    },
-    {
-      "ticker": "MBGL",
-      "price": "23.13",
-      "dayChange": "+16.11%",
-      "ema20": "19.60",
-      "stopLoss": "21.51",
-      "dollarRisk": "1.62",
+      "ticker": "COLB",
+      "price": "30.60",
+      "dayChange": "+0.03%",
+      "ema20": "30.42",
+      "stopLoss": "28.46",
+      "dollarRisk": "2.14",
       "volumeSpike": "1.7x",
-      "rawVolume": "7.29M",
-      "avgVolumeStr": "4.29M"
+      "rawVolume": "4.31M",
+      "avgVolumeStr": "2.49M"
+    },
+    {
+      "ticker": "GME",
+      "price": "25.85",
+      "dayChange": "+0.90%",
+      "ema20": "25.07",
+      "stopLoss": "24.04",
+      "dollarRisk": "1.81",
+      "volumeSpike": "1.5x",
+      "rawVolume": "9.09M",
+      "avgVolumeStr": "5.99M"
+    },
+    {
+      "ticker": "TXNM",
+      "price": "58.87",
+      "dayChange": "+0.09%",
+      "ema20": "58.53",
+      "stopLoss": "54.75",
+      "dollarRisk": "4.12",
+      "volumeSpike": "3.0x",
+      "rawVolume": "2.95M",
+      "avgVolumeStr": "0.99M"
+    },
+    {
+      "ticker": "WMG",
+      "price": "32.30",
+      "dayChange": "+1.99%",
+      "ema20": "31.10",
+      "stopLoss": "30.04",
+      "dollarRisk": "2.26",
+      "volumeSpike": "1.8x",
+      "rawVolume": "3.09M",
+      "avgVolumeStr": "1.76M"
+    },
+    {
+      "ticker": "JBGS",
+      "price": "12.54",
+      "dayChange": "+4.59%",
+      "ema20": "11.90",
+      "stopLoss": "11.66",
+      "dollarRisk": "0.88",
+      "volumeSpike": "2.4x",
+      "rawVolume": "1.91M",
+      "avgVolumeStr": "0.80M"
+    },
+    {
+      "ticker": "PCRX",
+      "price": "36.46",
+      "dayChange": "0.00%",
+      "ema20": "35.66",
+      "stopLoss": "33.91",
+      "dollarRisk": "2.55",
+      "volumeSpike": "1.8x",
+      "rawVolume": "1.95M",
+      "avgVolumeStr": "1.09M"
+    },
+    {
+      "ticker": "RHI",
+      "price": "42.00",
+      "dayChange": "+0.07%",
+      "ema20": "41.37",
+      "stopLoss": "39.06",
+      "dollarRisk": "2.94",
+      "volumeSpike": "2.0x",
+      "rawVolume": "3.05M",
+      "avgVolumeStr": "1.53M"
+    },
+    {
+      "ticker": "TDC",
+      "price": "34.81",
+      "dayChange": "+1.84%",
+      "ema20": "33.11",
+      "stopLoss": "32.37",
+      "dollarRisk": "2.44",
+      "volumeSpike": "1.5x",
+      "rawVolume": "3.86M",
+      "avgVolumeStr": "2.51M"
+    },
+    {
+      "ticker": "TRMK",
+      "price": "47.88",
+      "dayChange": "+0.08%",
+      "ema20": "45.73",
+      "stopLoss": "44.53",
+      "dollarRisk": "3.35",
+      "volumeSpike": "3.7x",
+      "rawVolume": "2.93M",
+      "avgVolumeStr": "0.79M"
+    },
+    {
+      "ticker": "WWW",
+      "price": "24.89",
+      "dayChange": "+8.83%",
+      "ema20": "21.52",
+      "stopLoss": "23.15",
+      "dollarRisk": "1.74",
+      "volumeSpike": "2.4x",
+      "rawVolume": "2.57M",
+      "avgVolumeStr": "1.07M"
     }
   ]
 }
