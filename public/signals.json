@@ -1,62 +1,51 @@
 {
-  "vix": "22.91",
+  "vix": "25.46",
   "isHostile": true,
-  "timestamp": "2026-11-17T04:45:27.115Z",
+  "timestamp": "2026-11-18T03:51:09.511Z",
   "signals": [
     {
       "ticker": "ACM",
-      "price": "72.50",
-      "dayChange": "+2.84%",
-      "ema20": "66.64",
-      "stopLoss": "67.42",
-      "dollarRisk": "5.08",
-      "volumeSpike": "1.5x",
-      "rawVolume": "2.33M",
-      "avgVolumeStr": "1.51M"
+      "price": "80.53",
+      "dayChange": "+11.08%",
+      "ema20": "67.96",
+      "stopLoss": "74.89",
+      "dollarRisk": "5.64",
+      "volumeSpike": "2.6x",
+      "rawVolume": "4.15M",
+      "avgVolumeStr": "1.62M"
     },
     {
       "ticker": "BILL",
-      "price": "57.63",
-      "dayChange": "+5.78%",
-      "ema20": "51.60",
-      "stopLoss": "53.60",
-      "dollarRisk": "4.03",
+      "price": "64.88",
+      "dayChange": "+12.58%",
+      "ema20": "52.87",
+      "stopLoss": "60.34",
+      "dollarRisk": "4.54",
+      "volumeSpike": "6.2x",
+      "rawVolume": "10.14M",
+      "avgVolumeStr": "1.65M"
+    },
+    {
+      "ticker": "ENR",
+      "price": "27.40",
+      "dayChange": "+12.57%",
+      "ema20": "24.06",
+      "stopLoss": "25.48",
+      "dollarRisk": "1.92",
+      "volumeSpike": "3.2x",
+      "rawVolume": "3.35M",
+      "avgVolumeStr": "1.06M"
+    },
+    {
+      "ticker": "TFX",
+      "price": "159.55",
+      "dayChange": "+1.56%",
+      "ema20": "147.52",
+      "stopLoss": "148.38",
+      "dollarRisk": "11.17",
       "volumeSpike": "1.7x",
-      "rawVolume": "2.63M",
-      "avgVolumeStr": "1.53M"
-    },
-    {
-      "ticker": "MOH",
-      "price": "233.09",
-      "dayChange": "+11.27%",
-      "ema20": "210.27",
-      "stopLoss": "216.77",
-      "dollarRisk": "16.32",
-      "volumeSpike": "1.9x",
-      "rawVolume": "1.77M",
-      "avgVolumeStr": "0.92M"
-    },
-    {
-      "ticker": "MBGL",
-      "price": "24.04",
-      "dayChange": "+3.26%",
-      "ema20": "20.34",
-      "stopLoss": "22.36",
-      "dollarRisk": "1.68",
-      "volumeSpike": "2.5x",
-      "rawVolume": "9.92M",
-      "avgVolumeStr": "4.05M"
-    },
-    {
-      "ticker": "WWW",
-      "price": "25.29",
-      "dayChange": "+1.61%",
-      "ema20": "21.88",
-      "stopLoss": "23.52",
-      "dollarRisk": "1.77",
-      "volumeSpike": "2.0x",
-      "rawVolume": "2.40M",
-      "avgVolumeStr": "1.22M"
+      "rawVolume": "1.59M",
+      "avgVolumeStr": "0.95M"
     }
   ]
 }
