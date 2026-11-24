@@ -1,51 +1,84 @@
 {
-  "vix": "35.89",
+  "vix": "26.62",
   "isHostile": true,
-  "timestamp": "2026-11-21T03:24:27.831Z",
+  "timestamp": "2026-11-24T06:18:09.487Z",
   "signals": [
     {
-      "ticker": "NJR",
-      "price": "55.54",
-      "dayChange": "+2.51%",
-      "ema20": "54.51",
-      "stopLoss": "51.65",
-      "dollarRisk": "3.89",
-      "volumeSpike": "1.7x",
+      "ticker": "BC",
+      "price": "74.66",
+      "dayChange": "+3.54%",
+      "ema20": "74.22",
+      "stopLoss": "69.43",
+      "dollarRisk": "5.23",
+      "volumeSpike": "2.0x",
       "rawVolume": "1.13M",
-      "avgVolumeStr": "0.65M"
+      "avgVolumeStr": "0.56M"
     },
     {
-      "ticker": "CPB",
-      "price": "23.78",
-      "dayChange": "+1.84%",
-      "ema20": "22.55",
-      "stopLoss": "22.12",
-      "dollarRisk": "1.66",
-      "volumeSpike": "1.5x",
-      "rawVolume": "8.84M",
-      "avgVolumeStr": "5.85M"
+      "ticker": "BILL",
+      "price": "61.61",
+      "dayChange": "+0.28%",
+      "ema20": "56.24",
+      "stopLoss": "57.30",
+      "dollarRisk": "4.31",
+      "volumeSpike": "1.9x",
+      "rawVolume": "10.50M",
+      "avgVolumeStr": "5.61M"
     },
     {
-      "ticker": "HZO",
-      "price": "52.82",
-      "dayChange": "+0.02%",
-      "ema20": "52.70",
-      "stopLoss": "49.12",
-      "dollarRisk": "3.70",
+      "ticker": "BRX",
+      "price": "30.34",
+      "dayChange": "+0.07%",
+      "ema20": "29.83",
+      "stopLoss": "28.22",
+      "dollarRisk": "2.12",
       "volumeSpike": "1.6x",
-      "rawVolume": "1.13M",
-      "avgVolumeStr": "0.72M"
+      "rawVolume": "4.77M",
+      "avgVolumeStr": "3.05M"
     },
     {
-      "ticker": "JBGS",
-      "price": "12.15",
-      "dayChange": "+2.97%",
-      "ema20": "12.00",
-      "stopLoss": "11.30",
-      "dollarRisk": "0.85",
+      "ticker": "COLM",
+      "price": "75.77",
+      "dayChange": "+1.04%",
+      "ema20": "71.09",
+      "stopLoss": "70.47",
+      "dollarRisk": "5.30",
+      "volumeSpike": "1.6x",
+      "rawVolume": "1.23M",
+      "avgVolumeStr": "0.77M"
+    },
+    {
+      "ticker": "GPK",
+      "price": "10.86",
+      "dayChange": "+6.89%",
+      "ema20": "10.35",
+      "stopLoss": "10.10",
+      "dollarRisk": "0.76",
       "volumeSpike": "1.8x",
-      "rawVolume": "1.65M",
-      "avgVolumeStr": "0.91M"
+      "rawVolume": "7.91M",
+      "avgVolumeStr": "4.32M"
+    },
+    {
+      "ticker": "CURB",
+      "price": "28.93",
+      "dayChange": "+1.58%",
+      "ema20": "28.82",
+      "stopLoss": "26.90",
+      "dollarRisk": "2.03",
+      "volumeSpike": "1.6x",
+      "rawVolume": "1.78M",
+      "avgVolumeStr": "1.09M"
+    },
+    {
+      "ticker": "XNCR",
+      "price": "35.17",
+      "dayChange": "+5.74%",
+      "ema20": "33.59",
+      "stopLoss": "32.71",
+      "dollarRisk": "2.46",
+      "volumeSpike": "1.6x",
+      "rawVolume": "1.94M",
+      "avgVolumeStr": "1.23M"
     }
   ]
 }
